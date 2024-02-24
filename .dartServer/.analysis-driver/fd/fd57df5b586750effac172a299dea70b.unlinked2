@@ -1,0 +1,417 @@
+€ÈDATA_VERSIONallowedNumberOfContextsToWrite
+_scheduler_logger_resourceProvider
+_byteStore_infoDeclarationStore_externalSummaries_fileContentCache_unlinkedUnitStore_fileContentStrategy_analysisOptions	_packages_sourceFactorymacroKernelBuildermacroExecutor
+ownedFilesdeclaredVariablesanalysisContext_saltForUnlinked_saltForElements_saltForResolution_priorityFiles_pendingFileChanges_accumulatedAffected_pendingFileChangesCompleters_requestedFiles_requestedLibraries_resolveForCompletionRequests_discoverAvailableFilesTask_definingClassMemberNameTasks_referencingNameTasks_errorsRequestedFiles_indexRequestedFiles_unitElementRequestedFiles_disposeRequests_resultController
+_onResults_lastProducedSignatures_priorityResults_resolvedLibraryCache_exceptionController_searchtestViewfeatureSetProvider_fsState_fileTrackerenableIndex_libraryContext_hasDartCoreDiscovered_hasLibrariesDiscoveredtestingData	_disposed
+addedFilesanalysisOptionscurrentSession
+exceptionsfsStatehasFilesToAnalyzehasPendingFileChanges
+knownFileslibraryContextnamenumberOfFilesToAnalyzepriorityFilesresourceProviderresultssearchsourceFactoryworkPriorityaddFileapplyPendingFileChangesbuildPackageBundle
+changeFileclearLibraryContextdiscoverAvailableFilesdispose2getCachedResult	getErrorsgetFilesDefiningClassMemberNamegetFilesReferencingNamegetFileSyncgetIndexgetLibraryByUrigetParsedLibrarygetParsedLibraryByUrigetResolvedLibrarygetResolvedLibraryByUri	getResultgetUnitElementparseFileSyncperformWork
+removeFileresolveForCompletion _addDeclaredVariablesToSignature_applyPendingFileChanges"_clearLibraryContextAfterException_computeAnalysisResult_computeErrors_computeIndex_computeResolvedLibrary_computeUnitElement_createErrorsResultImpl_createFileTracker_createResolvedUnitImpl_discoverAvailableFiles_discoverDartCore_discoverLibraries	_fillSalt_fillSaltForElements_fillSaltForResolution_fillSaltForUnlinked_getAnalysisResultFromBytes_getErrorsFromSerialized_getResolvedUnitKey_getResolvedUnitSignature_hasLibraryByUri_isAbsolutePath_isLibraryWithPriorityFile_maybeDispose_newMissingDartLibraryResult
+_onNewFile#_removePotentiallyAffectedLibraries_reportException_resolveForCompletion_storeExceptionContext_throwIfNotAbsolutePath_updateHasErrorOrWarningFlagnothinggeneralgeneralWithErrorsgeneralImportChangedgeneralChangedchangedFilespriorityinteractive
+completion_MS_BEFORE_PUMPING_EVENT_QUEUE_NUMBER_OF_EVENT_QUEUE_PUMPINGSdriverWatcher_drivers_hasWork_statusSupport_startedoutOfBandWorkerisAnalyzingstatus_hasFilesToAnalyzeaddnotifyremovestart-transitionToAnalyzingToIdleIfNoFilesToAnalyzewaitForIdle_run_pumpEventQueue
+fileSystemdrivernumOfAnalyzedLibrariesfileTrackerloadedLibraryUriSetpriorityResults
+_signatureisUnchangedErrorserrorsResult
+unitResult_indexaddedDriverremovedDriverdecodeencode_lintCodeByUniqueNamefilePathfileContentMap	exception
+contextKeyaddAddedaddKnown_MS_WORK_INTERVAL	completerfolderIteratorfiles	fileIndexisCompletedperform_appendFilesRecursively
+stackTracetoStringpathkindchangedefiningFilescheckedFilesfilesToCheck_WORK_FILES	fileStampfilesToCheckIndexreferencingFilesoffsetperformanceAnalysisDriverAnalysisDriverGenericAnalysisDriverPriorityAnalysisDriverSchedulerAnalysisDriverTestViewAnalysisResultDriverWatcherErrorEncodingExceptionResult
+OwnedFilesSchedulerWorker_DiscoverAvailableFilesTask_ExceptionState_FileChange_FileChangeKind!_FilesDefiningClassMemberNameTask_FilesReferencingNameTask_ResolveForCompletionRequestŸAnalysisContextAnalysisEngineAnalysisOptionsAnalysisOptionsImplintPerformanceLogResourceProvider	ByteStoreInfoDeclarationStoreSummaryDataStoreContentCacheFileContentCacheUnlinkedUnitStoreStoredFileContentStrategyPackagesSourceFactoryMacroKernelBuilderMultiMacroExecutorDeclaredVariablesDriverBasedAnalysisContext
+Uint32ListStringList_applyFileChangesSynchronouslySet	CompleterSomeResolvedUnitResultLibraryFileKindSomeResolvedLibraryResultSomeErrorsResultAnalysisDriverUnitIndexSomeUnitElementResultvoidStreamControllerObjectStreamMapResolvedUnitResultResolvedLibraryResultImplSearchFeatureSetProviderFileSystemStateFileTrackerboolLibraryContextTestingData	scheduler	byteStorefileContentCache	ephemeralunlinkedUnitStoreUnlinkedUnitStoreImplinfoDeclarationStoreNoOpInfoDeclarationStoreloggerpackagesexternalSummariesretainDataForTestingdriverstreamasBroadcastStreamadd
+addedFilesAnalysisSessionImplelementFactoryanalysisSessionoverridehasChangedFiles
+isNotEmptyhasPendingFilesknownFilePathstestDatalibraryContextanalysisOptionsdeclaredVariablessourceFactorymacroKernelBuildermacroExecutorfileSystemStatecontextRootrootpathnumberOfPendingFilestoListgrowablekeystoSet
+differenceforEachremoveclearaddAllnotifyErrorsResultinteractive
+completionisCompletedisFilePendingprioritygeneralchangedFileshasPendingChangedFilesgeneralChangedhasPendingImportFilesgeneralImportChangedhasPendingErrorFilesgeneralWithErrorsnothinghasUriisDartpathContextFutureDisposedAnalysisContextResultfuturevalueuriListPackageBundleReader	Uint8ListUriPackageBundleSdkBundleWriter
+dynamicRefPackageBundleBuilderuritoStringLibraryElementResultelementLibraryElementImplwriteLibraryElement
+addLibraryunitsmapesourcefinishresolutionBytessdkpackageBundleSdkchangedispose	completervaluescompleterListcompletecompleteErrorInvalidPathResultNotPathOfUriResultputIfAbsent
+FileResultSomeFileResult	FileStategetFileForPathFileResultImplsessionlineInfoisAugmentationkindAugmentationFileKind	isLibraryisPartPartFileKindArgumentErrorSomeLibraryElementResulturiCacheparseisEmptyrootReferencegetChildLibraryElementResultImplgetFileForUriCannotResolveUriResultUriResolutionFilefileNotLibraryButAugmentationResultNotLibraryButPartResultUnimplementedErrorruntimeType
+unitResultUnitElementResultlibraryInvalidResultUnspecifiedInvalidResultUriResolutionExternalLibrarygetLibraryElementParsedLibraryResultSomeParsedLibraryResultParsedUnitResultfilesunitFileParsedLibraryResultImplUriOfExternalLibraryResultResolvedLibraryResultsendCachedToStreamSomeParsedUnitResultRecordingErrorListenerCompilationUnitParsedUnitResultImplcontentuniterrors
+removeLast	exception
+stackTracefirstfileWasAnalyzedwithUnitperformanyPendingFileskipIfSameSignatureisUnchangedErrorserrorsResult
+_signatureResolvedForCompletionResultImplOperationPerformanceImploffsetperformanceApiSignaturevariableNamesaddIntlengthget	addString
+fileChangeaddFile
+changeFile
+removeFileverifyChangedFilesIfNeeded
+_UNCHANGED	asLibraryunchangedErrorsrunAsyncwritelnnumOfAnalyzedLibrariesloadtargetLibraryLibraryAnalyzerlibraryOfUri2inheritanceManagertestingDataanalyzeResolvedUnitResultImpl	indexUnitAnalysisDriverUnitIndexBuilder!AnalysisDriverResolvedUnitBuilderencodeerrorindextoBufferputGetlibraryElement_indexcomputeUnitElementUnitElementResultImplErrorsResultImplAnalysisErrorbuildresourceProviderpackageDefaultFeatureSetcontextFeatures nonPackageDefaultLanguageVersionnonPackageLanguageVersionnonPackageDefaultFeatureSetnonPackageFeatureSet	workspacefileContentStrategyprefetchFilesisGenerated	onNewFile
+fileSystemUnitAnalysisResultexistsdiscoverReferencedFilesaddUint32ListsignatureForElementstoUint32ListaddBoolenableDebugResolutionMarkers	signaturecontributeToResolutionSaltunlinkedSignatureresolvedUnitAnalysisDriverResolvedUnit
+fromBufferAnalysisDriverUnitErrordecodeuriStrlibraryCycleapiSignaturecontentHashtoHex
+isAbsolutecontainstmp	errorCodeCompileTimeErrorCodeMISSING_DART_LIBRARY	arguments
+ownedFilesaddAddedaddKnowncollectAffectedinvalidateLibraryCyclereplaceAnalysisSession
+StackTrace
+contextKeyCaughtExceptionCaughtExceptionWithFilesfileContentMapentriesnestedkeyfilePathanalyzeForCompletionunitElement
+parsedUnitresolvedNodes"AnalysisDriverExceptionFileBuildersorta	compareTob%AnalysisDriverExceptionContextBuilderDateTimenowmonthdayhourminutesecondmillisecondyearhasErrorOrWarningErrorSeverityerrorSeverityERRORresultsMonitorStatusSupportAnalysisStatushasFilesToAnalyzeanalysisContextaddedDriverpreTransitionToAnalyzingremovedDriver
+StateErrortransitionToAnalyzingtransitionToIdlewaitForIdle	StopwatchstartPerformanceLogSectionelapsedMillisecondsresetsignal_maybeDispose_applyPendingFileChangesenterworkPriorityperformWorkexitdelayedDurationzeroFileSystemTestDataLibraryContextTestDatafileSystemTestData_fileTrackerchildrenname_priorityResultsSource
+uniqueName	ErrorCodeerrorCodeByUniqueNameinstanceinstrumentationServicelogErrorDiagnosticMessageImplcontextMessagesmessageurl	forValuescorrectionMessage
+correctionAnalysisDriverUnitErrorBuilderDiagnosticMessageBuildermessageText
+includeUrlRegistryruleRegistrycodeForUniqueNamecontainsKeyIteratorFolder_sourceFactorydartSdksdkLibraries
+mapDartUri
+sdkLibrary	shortNamefullName
+packageMapexpandfiteratormoveNextcurrent_fsStategetChildrenchildFile
+knownFilesdefinedClassMemberNames	fileStampreferencedNamesAnalysisDriverGenericİ<¨em{éß¥£MHë  /  €Ù  
+dart:async  €î  dart:typed_data  	  Ymacro\Cpackage:_fe_analyzer_shared/src/macros/executor/multi_executor.dart  d  6package:analyzer/dart/analysis/declared_variables.dart  ¥  +package:analyzer/dart/analysis/results.dart  Û  "package:analyzer/dart/ast/ast.dart  ‚  !package:analyzer/error/error.dart  ‚4  $package:analyzer/error/listener.dart  ‚c  )package:analyzer/exception/exception.dart  ‚—  -package:analyzer/file_system/file_system.dart  ‚Ï  *package:analyzer/src/context/packages.dart  ƒ  2package:analyzer/src/dart/analysis/byte_store.dart  ƒA  Epackage:analyzer/src/dart/analysis/driver_based_analysis_context.dart  ƒ‘  <package:analyzer/src/dart/analysis/feature_set_provider.dart  ƒØ  :package:analyzer/src/dart/analysis/file_content_cache.dart  „  2package:analyzer/src/dart/analysis/file_state.dart  „Z  4package:analyzer/src/dart/analysis/file_tracker.dart  „™  -package:analyzer/src/dart/analysis/index.dart  „Ñ  >package:analyzer/src/dart/analysis/info_declaration_store.dart  …  8package:analyzer/src/dart/analysis/library_analyzer.dart  …]  7package:analyzer/src/dart/analysis/library_context.dart  …Ÿ  :package:analyzer/src/dart/analysis/performance_logger.dart  …ä  /package:analyzer/src/dart/analysis/results.dart  †  .package:analyzer/src/dart/analysis/search.dart  †W  /package:analyzer/src/dart/analysis/session.dart  †‘  .package:analyzer/src/dart/analysis/status.dart  †Ê  4package:analyzer/src/dart/analysis/testing_data.dart  ‡	  ;package:analyzer/src/dart/analysis/unlinked_unit_store.dart  ‡O  .package:analyzer/src/dart/element/element.dart  ‡ˆ  /package:analyzer/src/diagnostic/diagnostic.dart  ‡Â  %package:analyzer/src/error/codes.dart  ‡ò  -package:analyzer/src/exception/exception.dartˆaˆ«AnalysisContextAnalysisEngineAnalysisOptionsAnalysisOptionsImpl ˆ*  *package:analyzer/src/generated/engine.dart  ˆ®  *package:analyzer/src/generated/source.dart  ˆã  ‰linter‰'package:analyzer/src/lint/registry.dart  ‰  /package:analyzer/src/summary/api_signature.dart  ‰Y  (package:analyzer/src/summary/format.dart  ‰Œ  %package:analyzer/src/summary/idl.dart  ‰¼  7package:analyzer/src/summary/package_bundle_reader.dart  ‰ş  3package:analyzer/src/summary2/ast_binary_flags.dart  Š<  0package:analyzer/src/summary2/bundle_writer.dart  Šw  (package:analyzer/src/summary2/macro.dart  Šª  8package:analyzer/src/summary2/package_bundle_format.dart  Ší  ‹
+file_paths‹")package:analyzer/src/util/file_paths.dart  ‹/  @package:analyzer/src/util/performance/operation_performance.dart  ‹z  -package:analyzer/src/utilities/uri_cache.dart    	dart:coreÀ  w ÀmÔŠ® M€›€×€Ø€íUc¤Ú‚‚3‚b‚–‚Îƒƒ@ƒƒ×„„Y„˜„Ğ……\……ã††V††É‡‡N‡‡‡Á‡ñˆ)ˆ]ˆ­ˆâ‰‰X‰‹‰»‰ıŠ;ŠvŠ©Šì‹.‹y‹±‹²‹ì‹ğŒAŒŒÜ*yÉU‹Ü@D“ÄÈ^«ãç‘9‘Š‘¿‘Ã’’]’¯’³’ö“.“~“¥“¦“ò”:”l”m”º”Ò”ş”ÿ•B•b•c•—•Ã•Ä•û––6–T–U–—––Ò———T—¢—·—å—æ˜/˜P˜|˜}˜Æ˜İ™™™I™J™v™¤™¥™ìšš	šUšlš’š“šÃšÄ››7›8›ƒ›¸›Ø›Ùœœ0œ1œpœŸœ œæW†‡Ëüı>cd®âãŸ-ŸEŸnŸoŸ¹ŸşŸÿ G ƒ Ò Ó¡¡`¡~¡Å¡Æ¡ò¢A¢B¢¢Ù¢ÿ£;£<£ƒ£Ò£Ó¤¤O¤P¤—¤Ó¥"¥#¥l¥§¥Æ¦¦¦T¦•¦º¦ô¦õ§C§‘§Æ§Ç§ö¨.¨/¨|¨¤¨¥¨ò©,©-©X©—©˜©Æªª ª!ªSª”ª¿ªÀªë««	«3«4«b«c«„«…«²«Ó«Ô¬¬¬¬X¬{¬|¬¸¬ß¬à­)­s­­¸­¹®®7®Y®Z®t®u®¦®¬®û¯E¯X¯ˆ¯¬¯Ü¯ş°(°Z°z°—°¯°Ä°Ş±±0±`±~±§±Ñ±ø²²+²Y²y²•²ã³.³N³³º³Ô³ò´´J´´Ô´øµµTµUµµŸµ¹µÓµïµóµô¶@¶y¶z¶¶¶ñ¶ò··H·‚·†·‡·Á¸
+¸¸0¸[¸\¸h¸‡¸«¸Ó¸ù¹¹#¹$¹h¹i¹¸ºº;ºtºuºµºÛ»
+»4»f»}»š»Í»ö¼"¼G¼u¼™¼Æ¼ç¼î¼ò¼ó½3½v½w½°½÷½ø¾E¾‘¾’¾¾Ğ¾ê¾û¿&¿Q¿m¿—¿´¿¸¿¹À @À @CÀ @DÀ @À @•À @ÕÀ @ÛÀ A'À AvÀ AÇÀ A÷À AıÀ B+À BWÀ BÀ B£À BËÀ CÀ CÀ C^À C¨À CôÀ DDÀ D~À D„À DĞÀ EÀ EÀ EUÀ E À EÌÀ EÍÀ EıÀ FÀ FÀ FmÀ F„À F¹À FºÀ FÆÀ FòÀ GÀ GJÀ GPÀ G„À G´À GºÀ GàÀ HÀ HÀ HAÀ HrÀ HxÀ H§À HÜÀ IÀ IÀ IGÀ IsÀ I¤À IªÀ IÖÀ JÀ JÀ J8À JiÀ JoÀ J À JÑÀ J×À JüÀ K(À KXÀ KŠÀ K”À KœÀ K¢À KÌÀ KùÀ KÿÀ L'À LYÀ L_À LÀ LÂÀ LÈÀ LöÀ M0À M6À McÀ MšÀ M À MÈÀ MõÀ MûÀ N/À N\À NbÀ NÀ N‘À N’À NÀ N¼À NßÀ OÀ OÀ OÀ OVÀ OvÀ O›À OºÀ OêÀ OóÀ PÀ PÀ PÀ PÀ PlÀ P«À P±À PúÀ QIÀ Q•À QáÀ R,À RuÀ R¨À RÒÀ SÀ S?À SsÀ S’À SŸÀ SŞÀ SÿÀ T/À T5À T9À T:À T†À T¹À T¿À TñÀ UÀ U:À UbÀ UoÀ U©À UªÀ UÑÀ UòÀ UùÀ V2À V3À VTÀ VyÀ V´À VçÀ W3À WmÀ WnÀ W—À W©À WÒÀ WşÀ XÀ X À X(À X.À X/À XdÀ XeÀ XÀ XÇÀ XäÀ XëÀ XïÀ XğÀ Y<À Y‹À Y‘À YÃÀ YÉÀ ZÀ Z!À ZoÀ Z¼À [À [%À [+À [uÀ [¼À \	À \(À \IÀ \lÀ \À \œÀ \¢À \ãÀ ]À ](À ]GÀ ]zÀ ]ƒÀ ]¢À ]¨À ]¬À ]­À ]ûÀ ^GÀ ^–À ^æÀ ^úÀ _À _9À _UÀ _YÀ _ZÀ _¦À _öÀ ` À `OÀ `ƒÀ ` À `¦À `ÅÀ `âÀ aÀ a À a!À a-À aOÀ axÀ aÀ a³À a´À aÜÀ bÀ bEÀ b‚À bŠÀ bÀ b±À b²À bêÀ cÀ cTÀ c\À cbÀ cÀ c€À cÃÀ cğÀ d-À d5À d;À dcÀ ddÀ d¢À dÏÀ eÀ eÀ eÀ e=À e>À eyÀ e¹À e¿À eêÀ eëÀ fÀ f%À f)À f*À fxÀ fÈÀ fìÀ fòÀ g$À g*À g|À g±À gÔÀ g÷À gûÀ güÀ hHÀ hjÀ hpÀ h¢À h¨À hôÀ i8À irÀ i”À i¯À iÌÀ iÕÀ iÛÀ iÜÀ işÀ jÀ j7À j@À jFÀ jGÀ j\À jwÀ j À j©À j¯À j°À jãÀ k)À kFÀ kcÀ kgÀ khÀ k±À käÀ l*À lIÀ l‡À l´À lÑÀ lóÀ l÷À løÀ mAÀ mlÀ mªÀ mÉÀ mÿÀ n$À nAÀ ncÀ ngÀ nhÀ n¯À nµÀ nçÀ oÀ o5À oWÀ o]À o^À o’À o­À oÌÀ oŞÀ oóÀ pÀ pKÀ pzÀ p£À pªÀ p®À p¯À pıÀ qHÀ qXÀ q“À q¶À qÎÀ rÀ rÀ r-À rJÀ rPÀ r‹À rĞÀ ríÀ s
+À sÀ sÀ s`À s®À sõÀ t<À tbÀ tcÀ t”À t»À uÀ u?À uhÀ u“À uÅÀ uÍÀ uÓÀ uÔÀ vÀ vÀ v,À vUÀ v€À v À vÇÀ vúÀ w.À wYÀ w…À w–À wÙÀ wãÀ wäÀ xÀ xMÀ x”À xÀ xŸÀ xåÀ yÀ yFÀ y|À yµÀ y¿À yÀÀ yŞÀ z	À zAÀ zaÀ z£À zàÀ {À {À {À {À {iÀ {oÀ {¡À {ÛÀ {ıÀ |À |%À |&À |HÀ |kÀ |qÀ |rÀ |¢À |¾À |áÀ }À }@À }gÀ }À }œÀ }ÛÀ }áÀ }âÀ ~À ~/À ~SÀ ~ƒÀ ~°À ~ÛÀ ~ãÀ  À À À +À JÀ ^À eÀ iÀ jÀ µÀ ğÀ €À €4À €EÀ €nÀ €™À €ÅÀ €ğÀ À #À 'À (À vÀ ÆÀ üÀ ‚À ‚4À ‚:À ‚ŒÀ ‚’À ‚İÀ ƒ-À ƒ{À ƒÄÀ „À „ À „lÀ „À „°À „¶À „·À „ÙÀ „üÀ …À …À …À …3À …\À …eÀ …kÀ …lÀ …œÀ …¸À …ÛÀ †À †aÀ †€À †ŸÀ †ÎÀ †şÀ ‡%À ‡MÀ ‡ZÀ ‡™À ‡ŸÀ ‡£À ‡¤À ‡òÀ ˆAÀ ˆwÀ ˆ}À ˆÈÀ ‰À ‰fÀ ‰¯À ‰úÀ ŠÀ ŠXÀ Š†À ŠœÀ Š­À ŠÖÀ ‹À ‹/À ‹ZÀ ‹‡À ‹À ‹‘À ‹’À ‹áÀ Œ)À Œ_À ŒeÀ Œ—À ŒÀ ŒïÀ ŒõÀ FÀ •À ÖÀ ÜÀ -À À ÏÀ À RÀ ŠÀ µÀ ×À òÀ À À À À AÀ \À zÀ ƒÀ ‰À ŠÀ «À ±À ëÀ ‘À ‘)À ‘RÀ ‘\À ‘À ‘‰À ‘À ‘À ‘¥À ‘ÀÀ ‘éÀ ‘òÀ ‘øÀ ‘ùÀ ’À ’LÀ ’ŒÀ ’©À ’ÆÀ ’ÊÀ ’ËÀ “À “=À “{À “À “¸À “ÕÀ “ŞÀ “äÀ “åÀ ”À ”"À ”@À ”IÀ ”OÀ ”PÀ ”eÀ ”€À ”©À ”²À ”¸À ”¹À ”ñÀ •<À •YÀ •vÀ •zÀ •{À •ÁÀ •ÇÀ •ùÀ •ÿÀ –QÀ –WÀ –¢À –îÀ —À —8À —ZÀ —|À —‚À —ƒÀ —·À —÷À ˜(À ˜IÀ ˜hÀ ˜À ˜”À ˜±À ˜ĞÀ ™	À ™8À ™aÀ ™sÀ ™’À ™™À ™À ™À ™ªÀ ™ÏÀ ™èÀ šÀ šÀ š7À šyÀ š…À šÂÀ šîÀ ›À ›UÀ ›•À ›ÃÀ ›ËÀ ›ÙÀ ›ßÀ ›àÀ œÀ œ'À œVÀ œÀ œ¸À œÄÀ À >À lÀ –À  À ËÀ óÀ *À XÀ ’À œÀ ÊÀ ÒÀ àÀ æÀ çÀ ŸÀ Ÿ5À ŸkÀ ŸwÀ Ÿ´À ŸúÀ   À  *À  RÀ  ˜À  ÒÀ  ÜÀ ¡
+À ¡À ¡ À ¡&À ¡'À ¡HÀ ¡tÀ ¡§À ¡ãÀ ¢À ¢ À ¢)À ¢SÀ ¢wÀ ¢À ¢À ¢“À ¢”À ¢µÀ ¢àÀ £À £DÀ £†À £©À £±À £¿À £ÅÀ £ÆÀ £íÀ ¤À ¤YÀ ¤šÀ ¤ĞÀ ¤úÀ ¥À ¥&À ¥4À ¥:À ¥;À ¥\À ¥‹À ¥ÀÀ ¥îÀ ¥üÀ ¦À ¦À ¦)À ¦]À ¦ŒÀ ¦»À ¦ßÀ ¦óÀ §'À §/À §=À §CÀ §DÀ §mÀ §™À §İÀ ¨À ¨À ¨AÀ ¨IÀ ¨WÀ ¨]À ¨^À ¨~À ¨£À ¨ÏÀ ¨ÿÀ ©À ©\À ©“À ©¿À ©úÀ ª,À ªBÀ ªrÀ ª~À ªÀ ªšÀ ª¢À ª¨À ª©À ªÈÀ ªğÀ «!À «-À «eÀ «À «ÆÀ ¬À ¬TÀ ¬eÀ ¬œÀ ¬ÙÀ ¬ãÀ ­À ­BÀ ­pÀ ­‚À ­®À ­¶À ­ÄÀ ­ÊÀ ­ÎÀ ­ÏÀ ®À ®$À ®VÀ ®\À ®¥À ®òÀ ¯À ¯6À ¯YÀ ¯{À ¯‰À ¯À ¯ĞÀ ¯üÀ °À °AÀ °`À °“À °œÀ °»À °ÁÀ °ÅÀ °ÆÀ ±À ±"À ±;À ±nÀ ±{À ±­À ±¿À ±ÕÀ ±õÀ ±üÀ ²,À ²IÀ ²nÀ ²rÀ ²sÀ ²²À ²ëÀ ³À ³À ³;À ³jÀ ³ˆÀ ³¨À ³®À ³²À ³³À ³×À ´À ´3À ´UÀ ´›À ´¼À ´ŞÀ µÀ µÀ µ:À µcÀ µtÀ µ™À µÂÀ ¶À ¶RÀ ¶sÀ ¶„À ¶ŒÀ ¶’À ¶³À ¶´À ¶ùÀ ·2À ·3À ·gÀ ·¦À ·ÓÀ ·ıÀ ¸À ¸AÀ ¸LÀ ¸TÀ ¸ZÀ ¸^À ¸_À ¸§À ¸óÀ ¹=À ¹‡À ¹µÀ ¹ĞÀ ¹ÔÀ ¹ÕÀ º$À º8À º>À ºÀ º»À ºöÀ ºüÀ »LÀ »›À »ÔÀ ¼À ¼[À ¼À ¼À ¼ÔÀ ¼ğÀ ½$À ½%À ½KÀ ½ŒÀ ½½À ½¾À ¾À ¾-À ¾FÀ ¾~À ¾¸À ¾ÀÀ ¾ÆÀ ¾ÇÀ ¿À ¿*À ¿QÀ ¿lÀ ¿°À ¿¸À ¿¾À ¿¿À ÀÀ ÀPÀ ÀxÀ À„À À°À À±À ÀßÀ Á!À Á+À Á,À Á[À ÁÀ Á¨À Á©À ÁÌÀ ÁîÀ Â)À Â4À Â5À Â\À ÂÀ Â«À ÂôÀ Ã@À ÃSÀ Ã{À ÃŸÀ Ã´À ÃµÀ ÄÀ ÄÀ Ä)À ÄcÀ ÄÀ Ä·À Ä¸À ÄÜÀ ÅÀ Å9À Å:À ÅyÀ Å­À ÅßÀ ÅøÀ ÆÀ Æ*À Æ+À ÆcÀ ÆÀ Æ£À Æ°À ÆÛÀ ÆÜÀ ÇÀ ÇCÀ ÇOÀ ÇPÀ ÇŸÀ ÇŞÀ ÈÀ ÈÀ ÈSÀ ÈTÀ ÈvÀ È’À ÈŞÀ ÈóÀ É!À É<À ÉeÀ É‡À É´À ÉÇÀ ÉŞÀ ÉïÀ ÉıÀ Ê	À ÊÀ ÊÀ Ê=À ÊxÀ ÊÀ ÊÖÀ ÊøÀ ËÀ Ë?À ËIÀ ËJÀ ËyÀ Ë³À ËÊÀ ËòÀ ÌÀ ÌYÀ Ì›À Ì£À Ì«À Ì¯À Ì°À ÌÜÀ ÌöÀ ÍÀ ÍQÀ ÍzÀ Í~À ÍÀ ÍÄÀ ÎÀ Î5À Î9À Î:À Î„À Î˜À ÎÕÀ ÎòÀ ÎşÀ Ï1À ÏKÀ Ï`À ÏfÀ ÏgÀ Ï‹À ÏÔÀ ÏşÀ ĞÀ Ğ?À ĞxÀ ĞÀ Ğ‚À Ğ«À ĞáÀ ÑÀ ÑOÀ ÑŸÀ Ñ¶À ÑâÀ Ò
+À Ò À ÒRÀ ÒSÀ Ò À ÒÎÀ ÒøÀ Ó.À ÓHÀ ÓjÀ ÓuÀ ÓÀ ÓÇÀ ÔÀ ÔÀ ÔÀ ÔÀ ÔDÀ ÔeÀ ÔšÀ Ô¸À ÔÁÀ ÔÂÀ ÔéÀ ÕÀ Õ"À Õ#À Õ8À Õ@À ÕDÀ ÕEÀ Õ‹À Õ¿À ÕÀÀ ÖÀ Ö À ÖTÀ ÖUÀ ÖÀ ÖÆÀ ÖçÀ ×À ×@À ×IÀ ×À ×³À ×ÔÀ ×èÀ ×ÿÀ Ø À Ø[À ØŒÀ Ø·À ØÑÀ ØÚÀ ØâÀ ØæÀ ØçÀ ÙÀ Ù1À ÙZÀ ÙaÀ Ù~À ÙÀ Ù´À ÙÉÀ ÙèÀ Ú!À ÚPÀ ÚyÀ ÚÀ Ú–À ÚšÀ Ú›À ÚÚÀ ÚàÀ Û/À Û>À Û\À ÛmÀ ÛnÀ Û¡À ÛÅÀ ÛğÀ ÜÀ ÜMÀ ÜuÀ Ü«À ÜõÀ ÜüÀ ÜıÀ İÀ İ,À İ>À İWÀ İcÀ İxÀ İ¦À İ¿À İ×À İïÀ Ş	À Ş:À ŞgÀ Ş‚À Ş£À ŞÀÀ ŞæÀ ŞíÀ ß6À ß:À ß;À ßnÀ ß‹À ß·À ß¾À ßáÀ à À àÀ à,À àGÀ àdÀ àƒÀ à¼À àëÀ áÀ á1À áRÀ áYÀ á]À á^À á¬À áôÀ âÀ â^À âbÀ âcÀ â©À âïÀ ã9À ã?À ã‡À ãÓÀ ä!À änÀ äºÀ äèÀ äîÀ å:À åJÀ ågÀ å‰À å—À åÀ åÀÀ åÁÀ åöÀ æ:À æmÀ æÀ æÃÀ æëÀ æóÀ æùÀ æıÀ æşÀ çÀ ç?À çMÀ çSÀ çwÀ çxÀ çªÀ çÏÀ çÕÀ çÙÀ çÚÀ çïÀ èÀ è'À èEÀ èIÀ èJÀ èjÀ è‹À è¬À èíÀ éÀ éIÀ éMÀ éNÀ épÀ é‘À é²À éÓÀ êÀ ê;À êiÀ êjÀ ê¦À êÙÀ êÚÀ ë
+À ëÀ ëÀ ë/À ëPÀ ëqÀ ë’À ëĞÀ ëşÀ ìÀ ìÀ ìNÀ ì{À ì©À ì½À ìÓÀ ìêÀ ìÿÀ í"À íCÀ íJÀ í‡À íÃÀ íóÀ îÀ îCÀ îzÀ î›À î´À îËÀ îèÀ ïÀ ï#À ï^À ïÀ ïºÀ ïÖÀ ïîÀ ï÷À ğ?À ğLÀ ğ~À ğ’À ğªÀ ğ³À ğ÷À ğıÀ ñÀ ñÀ ñCÀ ñsÀ ñµÀ ñéÀ ò!À òeÀ òˆÀ ò«À ò³À ò¹À òÌÀ òĞÀ òÑÀ óÀ óLÀ ónÀ órÀ ósÀ óÄÀ ôÀ ôRÀ ôÀ ô°À ôŞÀ õÀ õ@À õkÀ õ‰À õÀ õÀ õ·À õİÀ öÀ ö(À ö=À örÀ ö À ö§À ö«À ö¬À öÒÀ ÷À ÷À ÷À ÷OÀ ÷wÀ ÷§À ÷¼À ÷ÄÀ ÷ÊÀ ÷ÜÀ ÷àÀ ÷áÀ øÀ ø/À øNÀ økÀ ølÀ ø§À øÅÀ øÍÀ øÓÀ ø×À øØÀ ù À ùWÀ ù†À ù±À ùéÀ úÀ ú1À úHÀ ú]À ú|À úµÀ úäÀ ûÀ ûÀ û8À ûWÀ ûlÀ ûÀ ûÁÀ ûäÀ ûïÀ ûøÀ ûÿÀ ü!À üeÀ üiÀ üjÀ üÀ ü¶À üÔÀ ı À ı-À ı<À ıiÀ ıqÀ ıwÀ ı{À ı|À ı¨À ıÍÀ ıŞÀ ıäÀ şÀ ş4À ş5À şYÀ şÀ şÀ şØÀ şûÀ ÿÀ ÿ>À ÿeÀ ÿmÀ ÿ—À ÿÀ ÿÀ ÿÚÀ ÿûÀ À À À WÀ oÀ —À ´À ÛÀ À%À+À,ÀqÀrÀŸÀ ÀªÀÜÀşÀ*ÀKÀ{À¯À¹ÀÈÀìÀÀ&À8ÀzÀÂÀÈÀÉÀúÀ7ÀvÀ~À„À…À£ÀºÀÒÀúÀÀ5À>ÀEÀIÀJÀŒÀ¶ÀÂÀÀ)ÀMÀbÀjÀkÀÀ¤À¬À­ÀİÀŞÀ$ÀBÀxÀyÀ›ÀµÀÓÀøÀÀBÀOÀZÀcÀ­À®ÀÚÀ	
+À	%À	lÀ	¶À	ÇÀ	íÀ
+À
+-À
+AÀ
+aÀ
+ƒÀ
+¥À
+®À
+¯À
+İÀÀÀ1ÀNÀmÀÀ½ÀßÀÀÀ%À)À*ÀqÀ¢ÀÑÀäÀñÀÀÀ)ÀRÀÀÆÀÛÀÀUÀ†À ÀÏÀ À$ÀQÀRÀrÀ”ÀªÀ²À³ÀÕÀøÀÀ2À:À;ÀaÀ‰À¯ÀÖÀÀ,À]À¡À¢ÀÇÀÙÀëÀşÀÀÀ	ÀXÀ‡ÀµÀ×ÀÀ$À(À)ÀnÀ˜À½ÀñÀÀYÀ†À­À½ÀÅÀËÀïÀóÀõÀöÀEÀ’ÀâÀùÀ ÀYÀwÀxÀÂÀÈÀÀÀXÀ ÀëÀÀÀaÀŒÀÀŞÀôÀúÀ,À2ÀÀÀŸÀâÀıÀşÀ:ÀXÀZÀ[À¬ÀüÀÀ/À:ÀEÀZÀrÀ„À”À À¯À¼À¾À¿ÀÀFÀfÀªÀ°ÀÿÀMÀÀÄÀÅÀÀcÀ±ÀÛÀáÀ,ÀyÀÈÀ À À #À $À pÀ –À —À ÊÀ ğÀ!(À!)À!BÀ!CÀ!À!µÀ!»À!ôÀ"À"À"XÀ"YÀ"‘À"¿À"ÀÀ"ÿÀ#=À#>À#À#ŸÀ#ÔÀ#úÀ$À$À$À$/À$3À$4À$vÀ$¡À$»À$ÒÀ%À%BÀ%HÀ%LÀ%MÀ%“À%¬À%ÛÀ&,À&LÀ&cÀ&’À&–À&—À&âÀ'À'5À'YÀ'…À'‹À'¨À'¿À'ÃÀ'ÄÀ(À(9À(JÀ(^À(¡À(§À(¼À(ÈÀ(ÌÀ(ÍÀ)À)bÀ)¯À)õÀ*.À*MÀ*{À*¤À*ªÀ*®À*¯À*şÀ+À+PÀ+cÀ+¡À+¢À+îÀ,À,"À,pÀ,€À,¬À,ØÀ,ëÀ-
+À-RÀ-’À-©À-±À-²À-ÏÀ-ĞÀ. À.(À.PÀ.ZÀ.bÀ.cÀ.ˆÀ.°À.İÀ.çÀ.ïÀ.ğÀ/0À/PÀ/€À/¸À/ÀÀ/ÁÀ/õÀ0"À0nÀ0¥À0äÀ1À16À1YÀ1cÀ1kÀ1lÀ1‘À1ÍÀ2À2HÀ2zÀ2™À2¯À2»À2ÅÀ2ÍÀ2ÎÀ3À3#À3NÀ3oÀ3À3—À3˜À3ÅÀ4À4À4À4À4PÀ4vÀ4wÀ4™À4²À4¸À4¼À4½À5
+À5!À5NÀ5dÀ5À5‡À5ÓÀ5×À5ÙÀ5ÚÀ5ùÀ6$À6%À6[À6À6„À6…À6©À6ªÀ6ÌÀ6ÍÀ7À7À7,À7kÀ7®À7çÀ7ëÀ7ìÀ8$À8HÀ8LÀ8NÀ8OÀ8}À8À8ÎÀ9À9`À9À9¡À9îÀ:3À:JÀ:–À:àÀ:úÀ;À;À;6À;7À;sÀ;¯À;×À;ØÀ<À<[À<‡À<ˆÀ<¥À<ÎÀ<ÏÀ<èÀ=1À=TÀ=oÀ=‡À=ˆÀ=ºÀ=ÜÀ=ùÀ>À>+À>,À>CÀ>ŠÀ>­À>ÊÀ>âÀ>äÀ>åÀ?2À?6À?rÀ?‘À?ãÀ@4À@_À@`À@¨À@ÕÀ@×À@ØÀ@îÀAÀA!ÀADÀAJÀAsÀAÀAÜÀAùÀBFÀB•ÀB³ÀBèÀC(ÀC;ÀCAÀCBÀCwÀC¨ÀCÅÀCàÀCÿÀD%ÀDGÀDkÀDÀD¶ÀDÁÀDÊÀDĞÀDÑÀDõÀEÀE'ÀECÀE_ÀE}ÀEÊÀEòÀEùÀEıÀEşÀFDÀF|ÀF­ÀFÈÀFêÀGÀG2ÀGmÀGÀG«ÀG¶ÀG¿ÀGÅÀGÆÀGñÀHÀH)ÀHWÀHuÀHŸÀHÇÀHÎÀHÒÀHÓÀI#ÀIIÀI‡ÀIÍÀIÑÀIÓÀIÔÀJÀJÀJeÀJkÀJŠÀJ£ÀJ¤ÀJÔÀK ÀKÀKFÀKiÀKjÀK»ÀL	ÀLWÀLŠÀL¦ÀL§ÀL»ÀL×ÀLùÀMÀM4ÀM:ÀM<ÀM=ÀMlÀMÀM¡ÀMÕÀNÀNÀN*ÀNrÀN¶ÀNèÀNéÀO#ÀOKÀOgÀOkÀOlÀO¦ÀOÎÀOöÀOüÀP ÀPÀPÀP,ÀPMÀP’ÀP½ÀP¾ÀPäÀQÀQÀQÀQSÀQcÀQ‡ÀQ±ÀQ²ÀQÑÀQÒÀR	ÀR
+ÀR.ÀR/ÀRPÀRQÀRfÀRgÀR“ÀR”ÀRÅÀRÆÀSÀS^ÀS„ÀS—ÀS¹ÀSàÀSáÀTÀT5ÀTRÀT‰ÀTÒÀTíÀT÷ÀTÿÀU ÀU0ÀUiÀU‰ÀUÏÀUŞÀVÀVÀVÀVÀVLÀVxÀV¡ÀVÍÀVôÀVõÀW;ÀWˆÀWÃÀWÓÀWÛÀWáÀWâÀXÀX+ÀXfÀXvÀX~ÀX£ÀXÏÀXÕÀXÖÀXùÀYÀY'ÀYAÀYEÀYFÀYvÀY€ÀY½ÀYíÀZ
+ÀZ+ÀZaÀZ~ÀZŠÀZ°ÀZÚÀZäÀZìÀZÿÀ[À[À[À[:À[RÀ[lÀ[‹À[ŒÀ[ÙÀ\$À\@À\AÀ\†À\‡À\“À\ÅÀ\ÇÀ\ÈÀ\ÜÀ\ñÀ]À]À]5À]6À]BÀ]XÀ]À]…À]‡À]ˆÀ]µÀ]¶À^À^3À^]À^‡À^ˆÀ^§À^¼À_À_À_5À_dÀ_”À_•À_ÒÀ_ÓÀ`"À`rÀ`­À`³Àa ÀaJÀaœÀaÏÀaâÀbÀbJÀbkÀbÀbØÀbÿÀcÀcÀc?ÀcaÀcŒÀc¡Àc©ÀcªÀcÈÀc÷Àd4ÀdmÀdÀd–Àd´ÀdºÀd»ÀdÖÀdèÀdìÀdîÀdïÀe:Àe‰Àe“ÀeµÀeÛÀfÀfÀf%Àf:ÀfÀf‚Àf˜Àf¹Àf×ÀfØÀgÀgÀgBÀgCÀg’ÀgâÀhÀh#ÀhpÀhºÀiÀi?ÀiRÀi„ÀiŸÀi¿ÀiÅÀiÆÀiåÀjÀj2ÀjcÀj€Àj†Àj‡Àj³ÀjêÀkÀkWÀkmÀkuÀk°ÀkáÀl
+ÀlÀlÀlÀlNÀlxÀl‰ÀlÀlÀlÀlµÀlÊÀlŞÀmÀmYÀmZÀm{Àm“Àm­ÀmÌÀmÒÀmÔ    .€Ø  €í  ] c  ¤  Ú  ‚  ‚3  ‚b  ‚–  ‚Î  ƒ  ƒ@  ƒ  ƒ×  „  „Y  „˜  „Ğ  …  …\  …  …ã  †  †V  †  †É  ‡  ‡N  ‡‡  ‡Á  ‡ñ  ˆ) ˆaˆ«ˆ­  ˆâ‰ ‰  ‰X  ‰‹  ‰»  ‰ı  Š;  Šv  Š©  Šì‹# ‹.  ‹y    ‹²À	B’ü‡C/// This class computes [AnalysisResult]s for Dart files.
+///
+/// Let the set of "explicitly analyzed files" denote the set of paths that have
+/// been passed to [addFile] but not subsequently passed to [removeFile]. Let
+/// the "current analysis results" denote the map from the set of explicitly
+/// analyzed files to the most recent [AnalysisResult] delivered to [results]
+/// for each file. Let the "current file state" represent a map from file path
+/// to the file contents most recently read from that file, or fetched from the
+/// content cache (considering all possible file paths, regardless of
+/// whether they're in the set of explicitly analyzed files). Let the
+/// "analysis state" be either "analyzing" or "idle".
+///
+/// (These are theoretical constructs; they may not necessarily reflect data
+/// structures maintained explicitly by the driver).
+///
+/// Then we make the following guarantees:
+///
+///    - Whenever the analysis state is idle, the current analysis results are
+///      consistent with the current file state.
+///
+///    - A call to [addFile] or [changeFile] causes the analysis state to
+///      transition to "analyzing", and schedules the contents of the given
+///      files to be read into the current file state prior to the next time
+///      the analysis state transitions back to "idle".
+///
+///    - If at any time the client stops making calls to [addFile], [changeFile],
+///      and [removeFile], the analysis state will eventually transition back to
+///      "idle" after a finite amount of processing.
+///
+/// As a result of these guarantees, a client may ensure that the analysis
+/// results are "eventually consistent" with the file system by simply calling
+/// [changeFile] any time the contents of a file on the file system have changed.
+///
+/// TODO(scheglov) Clean up the list of implicitly analyzed files. ®w‡{ ¯G¯U€Ç/// Create a new instance of [AnalysisDriver].
+///
+/// The given [SourceFactory] is cloned to ensure that it does not contain a
+/// reference to an [AnalysisContext] in which it could have been used.¯\*¯~  ¯Œ¯¥  ¯°*¯Ë  ¯à¯ô  °$°  °,,°J  °^°q  °~°„  °›°¡  °³°¹  °È°Î  °â"°õ  ±
+$±  ±4*±K  ±d±j  ±‚#±•  ±«$±¿  ±Õ!±Û  ±ü²  B±w±ñ²²² ²E²3²G²l²a²n²“²²²²¡²µ²Å²Æ²Ï²à²Ğ²ş²ë³³ ³³*³+³L³6³o³Z³r³Š³‹³§³–³©³Ê³Â³Ì³æ³Ü³è´	³ú´´5´"´7´d´R´x´f´{´Œ´´¤´˜´»´Ë´¦´½´È´É´Í5“0s“‘M/// The version of data format, should be incremented on every format change.“ “¨€Â”G€/// The number of exception contexts allowed to write. Once this field is
+/// zero, we stop writing any new exception contexts in this process.”h”o€”ò`/// The scheduler that schedules analysis work in this, and possibly other
+/// analysis drivers. •_•Y@/// The logger to write performed operations and performance to. •e\•°1/// The resource provider for working with files. •Æ€Œ–Hk/// The byte storage to get and put serialized data.
+///
+/// It can be shared with other [AnalysisDriver]s. –W€­–ïv/// The cache of deserialized data read from SummaryDataReader.
+///
+/// It can be shared with other [AnalysisDriver]s. —	€Ú—Ñ€©/// The optional store with externally provided unlinked and corresponding
+/// linked summaries. These summaries are always added to the store for any
+/// file analysis. —è€’˜ie/// This [ContentCache] is consulted for a file content before reading
+/// the content from the file. ˜€Š˜÷[/// The already loaded unlinked units,  consulted before deserializing
+/// from file again. ™9™3  ™LV™’)/// The analysis options to analyze with. ™§_™ıD/// The [Packages] object with packages and their language versions. š€…š‚^/// The [SourceFactory] is used to resolve URIs to paths and restore URIs
+/// from file paths. š•,š¯  šÆo›(?/// The instance of macro executor that is used for all macros. ›:€œ›Ì{/// The container, shared with other drivers within the same collection,
+/// into which all drivers record files ownership. ›ÛSœ'/// The declared environment variables. œ3jœ</// The analysis context that created this driver / session. œ¢qœóC/// The salt to mix into all hashes used as keys for unlinked data.ld>/// The salt to mix into all hashes used as keys for elements.wƒ‚‰qØA/// The salt to mix into all hashes used as keys for linked data.í÷ùøÿbF>/// The set of priority files, that should be analyzed sooner._`W^XfzÈG/// The file changes that should be applied before processing requests.Şßå€‡ŸS]/// When [_applyFileChangesSynchronously] is `true`, affected files are
+/// accumulated here.ŸjŸkŸq€‹ŸÁG/// The completers to complete after [_pendingFileChanges] are applied.ŸúŸûŸáŸùŸâŸëŸøŸìŸğŸ÷Ÿñ €Ï ‹/// The mapping from the files for which analysis was requested using
+/// [getResult] to the [Completer]s to report the result. Î Ï  Í  ¦ ª Ì « ´ Ë µ Õ€î¡h€ˆ/// The mapping from the files for which analysis was requested using
+/// [getResolvedLibrary] to the [Completer]s to report the result.¡Á¡Â¡„¡À¡…¡–¡š¡¿¡›¡¤¡¾¡¥¡Èw¢)/// The queue of requests for completion.¢=¢>¢D€õ£€¶/// The task that discovers available files.  If this field is not `null`,
+/// and the task is not completed, it should be performed and completed
+/// before any name searching task. £>€’£‹D/// The list of tasks to compute files defining a class member name.£Î£Ï£«£Í£¬£Õx¤:/// The list of tasks to compute files referencing a name.¤K¤L¤0¤J¤1¤R€Î¤Û~/// The mapping from the files for which errors were requested using
+/// [getErrors] to the [Completer]s to report the result.¥¥¤ó¥¤ô¤ü¥ ¥¥¥
+¥¥¥%€Ü¥¯/// The mapping from the files for which the index was requested using
+/// [getIndex] to the [Completer]s to report the result.¥ÿ¦ ¥Ì¥ş¥Í¥Õ¥Ù¥ı¥Ú¥ã¥ü¥ä¥û¦€ì¦€Œ/// The mapping from the files for which the unit element was requested using
+/// [getUnitElement] to the [Completer]s to report the result.¦ğ¦ñ¦À¦ï¦Á¦É¦Í¦î¦Î¦×¦í¦Ø¦÷€Í§¯€—/// The list of dispose requests, added in [dispose2], almost always empty.
+/// We expect that at most one is added, at the very end of the life cycle.§Â§Ã§Éc§ş,/// The controller for the [results] stream.¨¨"¨)¨#¨*¨+¨1q¨˜J/// The stream that will be written to when analysis results are produced. ¨§€ƒ©J/// Resolution signatures of the most recently produced results for files.©(©)©/f©€(/// Cached results for [_priorityFiles].©“©”©š€„©ş+/// Cached results of [getResolvedLibrary].ªªª#€šª}//// The controller for the [exceptions] stream.ªšªªªºª«ª»ª¼ªÂDªÿ(/// The instance of the [Search] helper. «&«)  «6*«N  «e«z  «‡J«Å*/// The [FileTracker] used by this driver. «ÖF¬-/// Whether resolved units should be indexed. ¬!X¬j6/// The context in which libraries should be analyzed. ¬~_¬¿9/// Whether `dart:core` has been transitively discovered.¬Ø¬â€Ô­—€©/// This flag is reset to `false` when a new file is added, because it
+/// might be a library, so that some files that were disconnected parts
+/// could be analyzed now.­±­»€œ®Ly/// If testing data is being retained, a pointer to the object that is
+/// retaining the testing data.  Otherwise `null`. ®\®a ®mµö€‚¶RI/// Return the set of files explicitly added to analysis using [addFile].   ¶|t¶Ì9/// Return the analysis options used to control analysis.   ¶ô€‘·7(/// Return the current analysis session.   ·‰€€·ß7/// Return the stream that produces [ExceptionResult]s.   ¸M¸F"/// The current file system state.   ¸^€Ä¸s   ¸^¸_¹&A¹/    ¹kºM€Ë/// Return the set of files that are known at this moment. This set does not
+/// always include all added files or all implicitly used file. If a file has
+/// not been processed yet, it might be missing.   ºw‚zºÊ=/// Return the context in which libraries should be analyzed.   ¼õ€€½@=/// Return the path of the folder at the root of the context.   ½y}½º6/// Return the number of files scheduled for analysis.   ½ú€–¾XJ/// Return the list of files that the driver should try to analyze sooner.   ¾”#¾¤  ¾²¾À  ¾”¾•¿»€‡À @I/// Return the [ResourceProvider] that is used to access the file system.   À @F……À Eµ…%/// Return the [Stream] that produces [AnalysisResult]s for added files.
+///
+/// Note that the stream supports only one single subscriber.
+///
+/// Analysis starts when the [AnalysisDriverScheduler] is started and the
+/// driver is added to it. The analysis state transitions to "analyzing" and
+/// an analysis result is produced for every added file prior to the next time
+/// the analysis state transitions to "idle".
+///
+/// [ResolvedUnitResult]s are produced for:
+/// 1. Files requested using [getResult].
+/// 2. Files passed to [addFile] which are also in [priorityFiles].
+///
+/// [ErrorsResult]s are produced for:
+/// 1. Files passed to [addFile] which are not in [priorityFiles].
+///
+/// At least one analysis result is produced for every file passed to
+/// [addFile] or [changeFile] prior to the next time the analysis state
+/// transitions to "idle", unless the file is later removed from analysis
+/// using [removeFile]. Analysis results for other files are produced only if
+/// the changes affect analysis results of other files.
+///
+/// More than one result might be produced for the same file, even if the
+/// client does not change the state of the files.
+///
+/// Results might be produced even for files that have never been added
+/// using [addFile], for example when [getResult] was called for a file.   À EÏMÀ F
+-/// Return the search support for the driver.   À F €˜À F˜a/// Return the source factory used to resolve URIs to paths and restore URIs
+/// from file paths.   À F¼‡ÔÀ Fã   À F¼À F½:À N”‡À N¥  À N­À Nµ  À N”À N•À P„À RŒ‚E/// Return a [Future] that completes after pending file changes are applied,
+/// so that [currentSession] can be used to compute results.
+///
+/// The value is the set of all files that are potentially affected by
+/// the pending changes. This set can be both wider than the set of analyzed
+/// files (because it may include files imported from other packages, and
+/// which are on the import path from a changed file to an analyze file),
+/// and narrower than the set of analyzed files (because only files that
+/// were previously accessed are considered to be known and affected).   À T<„²À U€®/// Builds elements for library files from [uriList], and packs them into
+/// a bundle suitable for [PackageBundleReader].
+///
+/// Disconnected non-library files are ignored. À UÀ U2  À U>"À UQ   À Xò„¹À \/ƒ/// The file with the given [path] might have changed - updated, added or
+/// removed. Or not, we don't know. Or it might have, but then changed back.
+///
+/// The [path] must be absolute and normalized.
+///
+/// The [path] can be any file - explicitly or implicitly analyzed, or neither.
+///
+/// Causes the analysis state to transition to "analyzing" (if it is not in
+/// that state already). Schedules the file contents for [path] to be read
+/// into the current file state prior to the next time the analysis state
+/// transitions to "idle".
+///
+/// Invocation of this method will not prevent a [Future] returned from
+/// [getResult] from completing with a result, but the result is not
+/// guaranteed to be consistent with the new current file state after this
+/// [changeFile] invocation. À \:À \B   À ]¯©À _B/// Clear the library context and any related data structures. Mostly we do
+/// this to reduce memory consumption. The library context holds to every
+/// library that was resynthesized, but after some initial analysis we might
+/// not get again to many of these libraries. So, we should clear the context
+/// periodically.   À _\ÃÀ `€—/// Return a [Future] that completes when discovery of all files that are
+/// potentially available is done, so that they are included in [knownFiles].   À a#…À a<   À a#À a$À f,ÎÀ g’C/// Return the cached [ResolvedUnitResult] for the Dart file with the given
+/// [path]. If there is no cached result, return `null`. Usually only results
+/// of priority files are cached.
+///
+/// The [path] must be absolute and normalized.
+///
+/// The [path] can be any file - explicitly or implicitly analyzed, or neither. À g¢À gª   À gşƒhÀ iS-/// Return a [Future] that completes with the [ErrorsResult] for the Dart
+/// file with the given [path].
+///
+/// The [path] must be absolute and normalized.
+///
+/// This method does not use analysis priorities, and must not be used in
+/// interactive analysis, such as Analysis Server or its plugins. À i]À ie   À kjŒÀ kûw/// Return a [Future] that completes with the list of added files that
+/// define a class member with the given [name]. À lÀ l#   À lúlÀ mƒo/// Return a [Future] that completes with the list of known files that
+/// reference the given external [name]. À m›À m£   À nj‚CÀ nøx/// Return the [FileResult] for the Dart file with the given [path].
+///
+/// The [path] must be absolute and normalized. À oÀ o   À p±‚\À q{€¢/// Return a [Future] that completes with the [AnalysisDriverUnitIndex] for
+/// the file with the given [path], or with `null` if the file cannot be
+/// analyzed. À q„À qŒ   À sˆ
+À t€ß/// Return a [Future] that completes with [LibraryElementResult] for the given
+/// [uri], which is either resynthesized from the provided external summary
+/// store, or built for a file to which the given [uri] is resolved. À t(
+À t0   À {„IÀ {»}/// Return a [ParsedLibraryResult] for the library with the given [path].
+///
+/// The [path] must be absolute and normalized. À {ÌÀ {Ô   À lºÀ ÏH/// Return a [ParsedLibraryResult] for the library with the given [uri]. À åÀ ê   À *†xÀ „D‚Û/// Return a [Future] that completes with a [ResolvedLibraryResult] for the
+/// Dart library file with the given [path].  If the file cannot be analyzed,
+/// the [Future] completes with an [InvalidResult].
+///
+/// The [path] must be absolute and normalized.
+///
+/// The [path] can be any file - explicitly or implicitly analyzed, or neither.
+///
+/// Invocation of this method causes the analysis state to transition to
+/// "analyzing" (if it is not in that state already), the driver will produce
+/// the resolution result for it, which is consistent with the current file
+/// state (including new states of the files previously reported using
+/// [changeFile]), prior to the next time the analysis state transitions
+/// to "idle". À „WÀ „_   À ‡¦ƒêÀ Š/‚R/// Return a [Future] that completes with a [ResolvedLibraryResult] for the
+/// Dart library file with the given [uri].  If the file cannot be analyzed,
+/// the [Future] completes with an [InvalidResult].
+///
+/// Invocation of this method causes the analysis state to transition to
+/// "analyzing" (if it is not in that state already), the driver will produce
+/// the resolution result for it, which is consistent with the current file
+/// state (including new states of the files previously reported using
+/// [changeFile]), prior to the next time the analysis state transitions
+/// to "idle". À ŠGÀ ŠL   À ‹”‡5À sƒ/// Return a [Future] that completes with a [SomeResolvedUnitResult] for the
+/// Dart file with the given [path].  If the file cannot be analyzed,
+/// the [Future] completes with an [InvalidResult].
+///
+/// The [path] must be absolute and normalized.
+///
+/// The [path] can be any file - explicitly or implicitly analyzed, or neither.
+///
+/// If the driver has the cached analysis result for the file, it is returned.
+/// If [sendCachedToStream] is `true`, then the result is also reported into
+/// the [results] stream, just as if it were freshly computed.
+///
+/// Otherwise causes the analysis state to transition to "analyzing" (if it is
+/// not in that state already), the driver will produce the analysis result for
+/// it, which is consistent with the current file state (including new states
+/// of the files previously reported using [changeFile]), prior to the next
+/// time the analysis state transitions to "idle". À }À …  À ‘À —  À «À ’Í‚¬À “]m/// Return a [Future] that completes with the [SomeUnitElementResult]
+/// for the file with the given [path]. À “lÀ “t   À •}„À —v/// Return a [ParsedUnitResult] for the file with the given [path].
+///
+/// The [path] must be absolute and normalized.
+///
+/// The [path] can be any file - explicitly or implicitly analyzed, or neither.
+///
+/// The parsing is performed in the method itself, and the result is not
+/// produced through the [results] stream (just because it is not a fully
+/// resolved unit). À —)À —1   À ™ ”-À ™¹   À ™ À ™¡À ­Ñ‚óÀ ¯7/// Remove the file with the given [path] from the list of files to analyze.
+///
+/// The [path] must be absolute and normalized.
+///
+/// The results of analysis of the file might still be produced by the
+/// [results] stream. The driver will try to stop producing these results,
+/// but does not guarantee this. À ¯'À ¯/   À °È©À °ñ  À ±À ±  À ±&À ±4  À ±?-À ±b   À ²u<À ²z  À ²›À ²©   À ³µ„¨À ³º    À ¸arÀ ¹/// There was an exception during a file analysis, we don't know why.
+/// But it might have been caused by an inconsistency of files state, and
+/// the library context state. Reset the library context, and hope that
+/// we will solve the inconsistency while loading / building summaries.   À ¹×’×À »íê/// Return the cached or newly computed analysis result of the file with the
+/// given [path].
+///
+/// The [withUnit] flag control which result will be returned.
+/// When `true`, [AnalysisResult.unitResult] will be set.
+/// Otherwise [AnalysisResult.errorsResult] will be set.
+///
+/// Return [AnalysisResult._UNCHANGED] if [skipIfSameSignature] is `true` and
+/// the resolved signature of the file in its library is the same as the one
+/// that was the most recently produced to the client. À ¼À ¼  À ¼À ¼'  À ¼0 À ¼6  À ¼KÀ Ì²€ËÀ ÌË  À ÌàÀ Ìñ   À Í€·À Í¡  À Í¯À Í·   À Î<‡À Î¼Y/// Return the newly computed resolution result of the library with the
+/// given [path]. À ÎÙÀ Îê   À ÕGƒÀ Õb  À ÕvÀ Õ~   À Øé°À Øú  À ÙÀ Ù,  À Ù5#À ÙS   À Ú„œÀ ÛE€š/// Creates new [FileSystemState] and [FileTracker] objects.
+///
+/// This is used both on initial construction and whenever the configuration
+/// changes.   À ß=‚À ßT  À ßrÀ ß†  À ß&À ß¬   À á`À áû€‘/// If this has not been done yet, schedule discovery of all files that are
+/// potentially available, so that they are included in [knownFiles].   À âe„—À åQ‚Ì/// When we look at a part that has a `part of name;` directive, we
+/// usually don't know the library (in contrast to `part of uri;`).
+/// So, we have no choice than to resolve this part as its own library.
+///
+/// But parts of `dart:xyz` libraries are special. The reason is that
+/// `dart:core` is always implicitly imported. So, when we start building
+/// the library cycle of such "part as a library", we discover `dart:core`,
+/// and see that it contains our part. So, we don't add it as a library on
+/// its own. But have already committed that it is a library. This causes
+/// an exception in `LinkedElementFactory`.
+///
+/// The current workaround for this is to discover `dart:core` before any
+/// analysis.   À ç €ØÀ ç    À çÜlÀ çá    À èL À èQ    À éP½À éU    À ë€ğÀ ë    À ì„ûÀ ìŒs/// Load the [AnalysisResult] for the given [file] from the [bytes]. Set
+/// optional [content] and [resolvedUnit]. À ì­À ì¸  À ìÁÀ ìÉ  À ì×À ìâ  À ìîÀ ì÷  À íÀ í  À í&À í<   À ñËÀ ñY>/// Return [AnalysisError]s for the given [serialized] errors. À ñyÀ ñ„  À ñ‰(À ñ¨   À òÓ€À ó$G/// Return the key to store fully resolved results for the [signature]. À ó8À ó@   À óu‚À ô€Œ/// Return the signature that identifies fully resolved results for the [file]
+/// in the [library], e.g. element model, errors, index, etc. À ô'À ô8  À ô@À ôK   À õÀ õ•  À õ¦À õ®   À ö®bÀ ö³  À öÃÀ öË   À ÷€ËÀ ÷  À ÷4À ÷E   À ÷ã€óÀ ÷ğ    À øÚƒÀ ùhz/// We detected that one of the required `dart` libraries is missing.
+/// Return the empty analysis result with the error. À ùŒÀ ù—  À ùœÀ ù¤   À ülÀ üq  À ü|À ü‡   À ı~‚‡À ıƒ  À ı¬À ı¹  À ıÑÀ ıÙ   À 	…?À   À À '  À ,À 4  À >À J   ÀL†ÜÀu  À$À®   À,…ÛÀ4  ÀKÀS  ÀXÀi  ÀwÀ  À‰À•   ÀÀy/// The driver supports only absolute paths, this method is used to validate
+/// any input paths to prevent errors later. À¦À®   À+ÇÀŸj/// Given the list of [errors] for the [file], update the [file]'s
+/// [FileState.hasErrorOrWarning] flag. ÀÃÀÎ  ÀÓÀè    Àö…cÀ/// A generic schedulable interface via the AnalysisDriverScheduler. Currently
+/// only implemented by [AnalysisDriver] and the angular plugin, at least as
+/// a temporary measure until the official plugin API is ready (and a different
+/// scheduler is used)   À"TÀd6/// Return `true` if the driver has a file to analyze.   Àz¡Àñd/// Set the list of files that the driver should try to analyze sooner.
+///
+/// Every path in the list must be absolute and normalized.
+///
+/// The driver will produce the results through the [results] stream. The
+/// exact order in which results are produced is not defined, neither
+/// between priority files, nor between priority and non-priority files. ÀÿÀ   ÀlÀ~A/// Return the priority of work that the driver needs to perform.   ÀÀˆ€ç/// Add the file with the given [path] to the set of files that are explicitly
+/// being analyzed.
+///
+/// The [path] must be absolute and normalized.
+///
+/// The results of analysis are eventually produced by the [results] stream. ÀÀ˜   À¡[Àñ@/// Notify the driver that the client is going to stop using it.   À WÀI9/// Perform a single chunk of work and produce [results].    À¿šÀL€†/// Instances of this class schedule work in multiple [AnalysisDriver]s so that
+/// work with the highest priority is performed first. À"< À"À"2 À"3À"9  À"BÀ"H   	ÀhZÀ /// Time interval in milliseconds before pumping the event queue.
+///
+/// Relinquishing execution flow and running the event loop after every task
+/// has too much overhead. Instead we use a fixed length of time, so we can
+/// spend less time overall and still respond quickly enough.ÀÁÀÇ‚9ÀÛò/// Event queue pumping is required to allow IO and other asynchronous data
+/// processing while analysis is active. For example Analysis Server needs to
+/// be able to process `updateContent` or `setPriorityFiles` requests while
+/// background analysis is in progress.
+///
+/// The number of pumpings is arbitrary, might be changed if we see that
+/// analysis or other data processing tasks are starving. Ideally we would
+/// need to run all asynchronous operations using a single global scheduler.ÀıÀ À   À &nÀ ‡I/// The object used to watch as analysis drivers are created and deleted. À ™/À » À ÆÀ ÇÀ Ì"À Ú À åÀ ìÀ íÀ ò4À! À!À!$À!%À!+À!0 À!;À!E€ÑÀ"€¨/// The optional worker that is invoked when its work priority is higher
+/// than work priorities in drivers.
+///
+/// Don't use outside of Analyzer and Analysis Server. À"[cÀ"œ5/// Return `true` if we are currently analyzing code.   À"ÂzÀ#</// Return the stream that produces [AnalysisStatus] events.   À#@€òÀ#Š>/// Return `true` if there is a driver with a file to analyze.   À$6À$}?/// Add the given [driver] and schedule it to perform its work. À$À$˜   À%OFÀ%³Z/// Notify that there is a change to the [driver], it might need to
+/// perform some work. À%ºÀ%Ò   À&™)À'k/// Remove the given [driver] from the scheduler, so that it will not be
+/// asked to perform any new work. À'À',   À'ÆÀ(@p/// Start the scheduler, so that any [AnalysisDriver] created before or
+/// after will be asked to perform work.   À(ÏŞÀ)ü/// Usually we transition status to analyzing only if there are files to
+/// analyze. However when used in the server, there are rare cases when
+/// analysis roots don't have any Dart files, but for consistency we still
+/// want to get status to transition to analysis, and back to idle.   À*±€ïÀ+r€«/// Return a future that will be completed the next time the status is idle.
+///
+/// If the status is currently idle, the returned future will be signaled
+/// immediately.   À+¤‰À,]/// Run infinitely analysis cycle, selecting the drivers with the highest
+/// priority first.   À4¿À51_/// Returns a [Future] that completes after performing [times] pumpings of
+/// the event queue. À5A	À5F    À5Ú‚sÀ5à   À5û'À6 À6À6 À6!À6'[À62 À6CÀ6YÀ6À6qÀ6_À6sÀ6‡ À6¡  À6¬À6° À6ÉÀ6Ï3À6ß    À7€äÀ7    À7î]À8      À8O†”À:9ã/// The result of analyzing of a single file.
+///
+/// These results are self-consistent, i.e. the file content, line info, the
+/// resolved unit correspond to each other. All referenced elements, even
+/// external ones, are also self-consistent. But none of the results is
+/// guaranteed to be consistent with the state of the files.
+///
+/// Every result is independent, and is not guaranteed to be consistent with
+/// any previously returned result, even inside of the same library. À<Ñ€µÀ<ßÀ<àÀ<æ À<îÀ<ô  À<ÿÀ=  À=À=+  	À=KÀ=9À=MÀ=gÀ=\À=iÀ=~À=wÀ=€À=Š€ À=˜À=™À=¨ À=©À=¯  À=ÔÀ=ÂÀ=ÖÀ=ñÀ=äÀ=óÀ>À>À>À>#À>À>%À>.€³À><À>=À>A À>IÀ>O  À>ZÀ>`  À>kÀ>„  	À>¤À>’À>¦À>ÂÀ>µÀ>ÄÀ>ÙÀ>ÒÀ>ÛÀ:L€ÇÀ;	€©/// The signature of the result based on the content of the file, and the
+/// transitive closure of files imported and exported by the library of
+/// the requested file. À;À;#  À;9€œÀ;És/// Is not `null` if this result is a result with errors.
+/// Otherwise is `null`, and usually [unitResult] is set. À;Ú€«À<{~/// Is not `null` if this result is a result with a resolved unit.
+/// Otherwise is `null`, and usually [errorsResult] is set. À<ŠBÀ<Æ/// The index of the unit.    À>åñÀ?€Œ/// An object that watches for the creation and removal of analysis drivers.
+///
+/// Clients may not extend, implement or mix-in this class.    À?“€ËÀ@;€/// The context manager has just added the given analysis [driver]. This method
+/// must be called before the driver has been allowed to perform any analysis. À@GÀ@W   À@brÀ@¯E/// The context manager has just removed the given analysis [driver]. À@½À@Í    À@ØˆúÀ@Ş     À@ğ…ÀA  ÀAÀA  ÀA%ÀA>   ÀF ‚ÑÀF&  ÀF-ÀF<   ÀHÕ€ûÀI]q/// Return the lint code with the given [errorName], or `null` if there is no
+/// lint registered with that name. ÀIsÀI{    ÀIÔƒgÀJ,/// Exception that happened during analysis. ÀL©€ ÀL©ÀL¸ ÀL¿ÀLÎ  ÀLÛÀLê  ÀLıÀM  ÀMÀM)   ÀJ€†ÀJ™j/// The path of the library being analyzed when the [exception] happened.
+///
+/// Absolute and normalized. ÀJ¦XÀJğ-/// The content of the library and its parts. ÀKdÀK^B/// The exception during analysis of the file with the [filePath]. ÀKl8ÀLš/// If the exception happened during a file analysis, and the context in which
+/// the exception happened was stored, this field is the key of the context
+/// in the byte store. May be `null` if the context is unknown, the maximum
+/// number of context to store was reached, etc.    ÀM=‚ÄÀMr./// Container that keeps track of file owners.  ÀM€„ÀMöQ/// Key: the absolute file URI.
+/// Value: the driver to which the file is added.ÀNÀNÀN
+€ÜÀN×€§/// Key: the absolute file URI.
+/// Value: a driver in which this file is available via dependencies.
+/// This map does not contain any files that are in [addedFiles].ÀNäÀNå ÀNëÀNğ  ÀNùÀNş  ÀOÀO   ÀOn€‘ÀOs  ÀO|ÀO  ÀO…ÀO•    ÀP ÀP;(/// Worker in [AnalysisDriverScheduler].   ÀPOmÀP¯B/// Return the priority of work that this worker needs to perform.   ÀPÀAÀPó#/// Perform a single chunk of work.    ÀQ‰ÿÀQi]/// Task that discovers all files that are available to the driver, and makes
+/// them known. ÀRi) ÀRiÀR„ ÀR…ÀR‹   ÀQ‰&ÀQš ÀQ®ÀQ´ÀQÉ  ÀQÔ3ÀQê ÀQöÀQÿÀRÀR ÀRÀRÀR ÀR  ÀR1ÀRD ÀRLÀRMÀRSÀRW ÀRcÀR–.ÀRŸ    ÀRÈ†|ÀS‹€·/// Perform the next piece of work, and set [isCompleted] to `true` to
+/// indicate that the task is done, or keeps it `false` to indicate that the
+/// task should continue to be run.   ÀYHºÀYM  ÀYeÀYm    À[ÀÀ[@3/// Information about an exception and its context. À\CB À\CÀ\R À\SÀ\Y  À\cÀ\i  À\tÀ\z   À[TÀ[a  À[nÀ[  À[€°À\4€“/// The key under which the context of the exception was stored, or `null`
+/// if unknown, the maximum number of context to store was reached, etc.  À\‰;À\œ   À\‰À\Š À\È€¾À\Î  À]" À]À] À]	À]$  À])	À]/   À\ŞÀ\ë  À\óÀ]	   À]8LÀ]K   À]8À]9 À]¶‡7À^9|/// Task that computes the list of files that were added to the driver and
+/// declare a class member with the given [name]. À_—: À_—À_¸ À_¹À_¿  À_Æ	À_Ì   À^_&À^p À^„À^ŠÀ^Ÿ  À^©À^¶  À^¾CÀ^Ü 	À^èÀ^ñÀ^şÀ^òÀ^öÀ^ıÀ^÷À^ÿÀ_ À_-À_ À_1À_2À_)À_0À_*À_7+À_I À_`À_aÀ_XÀ__À_YÀ_f,À_y À_À_‘À_ˆÀ_À_‰ À_Õ…ÀaÖë/// Perform work for a fixed length of time, and complete the [completer] to
+/// either return `true` to indicate that the task is done, or return `false`
+/// to indicate that the task should continue to be run.
+///
+/// Each invocation of an asynchronous method has overhead, which looks as
+/// `_SyncCompleter.complete` invocation, we see as much as 62% in some
+/// scenarios. Instead we use a fixed length of time, so we can spend less time
+/// overall and keep quick enough response time.    Àdï‡ŸÀe™€£/// Task that computes the list of files that were added to the driver and
+/// have at least one reference to an identifier [name] defined outside of the
+/// file. Àg2 ÀgÀg( Àg)Àg/  Àg6	Àg<   	Àe·"ÀeÈ ÀeÖÀeİ&Àeî ÀfÀfÀf  Àf'Àf4  Àf<CÀfZ 	ÀffÀfoÀf|ÀfpÀftÀf{ÀfuÀf}Àf~Àf„Àfˆ Àf”Àf•ÀfšÀf«  Àf»Àf¿ ÀfÓÀfÔÀfÚ0Àfí ÀgÀg	Àg ÀgÀg ÀgE…GÀiFë/// Perform work for a fixed length of time, and complete the [completer] to
+/// either return `true` to indicate that the task is done, or return `false`
+/// to indicate that the task should continue to be run.
+///
+/// Each invocation of an asynchronous method has overhead, which looks as
+/// `_SyncCompleter.complete` invocation, we see as much as 62% in some
+/// scenarios. Instead we use a fixed length of time, so we can spend less time
+/// overall and keep quick enough response time.    ÀlCÀl–  Àm\u Àm\Àmx ÀmÀm  Àm—Àm¦  Àm±ÀmÀ   Àl·ÀlÄ  ÀlÌÀlÖ  Àlà*Àlÿ  ÀmIÀm@ ÀmLÀmUÀmV    À[bÀ€µ/// Priorities of [AnalysisDriver] work. The farther a priority to the beginning
+/// of the list, the earlier the corresponding [AnalysisDriver] should be asked
+/// to perform work.  	À1À1  À<À<  ÀGÀG  À\À\  ÀtÀt  À†À†  À–À–  À¢À¢  À±
+À±     À]ˆ,À]   À]ŸÀ]Ÿ  À]¤À]¤  À]¬À]¬               Š® M€›€×€Ø€íUc¤Ú‚‚3‚b‚–‚Îƒƒ@ƒƒ×„„Y„˜„Ğ……\……ã††V††É‡‡N‡‡‡Á‡ñˆ)ˆ]ˆ­ˆâ‰‰X‰‹‰»‰ıŠ;ŠvŠ©Šì‹.‹y‹±‹²‹ì‹ğŒAŒŒÜ*yÉU‹Ü@D“ÄÈ^«ãç‘9‘Š‘¿‘Ã’’]’¯’³’ö“.“~“¥“¦“ò”:”l”m”º”Ò”ş”ÿ•B•b•c•—•Ã•Ä•û––6–T–U–—––Ò———T—¢—·—å—æ˜/˜P˜|˜}˜Æ˜İ™™™I™J™v™¤™¥™ìšš	šUšlš’š“šÃšÄ››7›8›ƒ›¸›Ø›Ùœœ0œ1œpœŸœ œæW†‡Ëüı>cd®âãŸ-ŸEŸnŸoŸ¹ŸşŸÿ G ƒ Ò Ó¡¡`¡~¡Å¡Æ¡ò¢A¢B¢¢Ù¢ÿ£;£<£ƒ£Ò£Ó¤¤O¤P¤—¤Ó¥"¥#¥l¥§¥Æ¦¦¦T¦•¦º¦ô¦õ§C§‘§Æ§Ç§ö¨.¨/¨|¨¤¨¥¨ò©,©-©X©—©˜©Æªª ª!ªSª”ª¿ªÀªë««	«3«4«b«c«„«…«²«Ó«Ô¬¬¬¬X¬{¬|¬¸¬ß¬à­)­s­­¸­¹®®7®Y®Z®t®u®¦®¬®û¯E¯X¯ˆ¯¬¯Ü¯ş°(°Z°z°—°¯°Ä°Ş±±0±`±~±§±Ñ±ø²²+²Y²y²•²ã³.³N³³º³Ô³ò´´J´´Ô´øµµTµUµµŸµ¹µÓµïµóµô¶@¶y¶z¶¶¶ñ¶ò··H·‚·†·‡·Á¸
+¸¸0¸[¸\¸h¸‡¸«¸Ó¸ù¹¹#¹$¹h¹i¹¸ºº;ºtºuºµºÛ»
+»4»f»}»š»Í»ö¼"¼G¼u¼™¼Æ¼ç¼î¼ò¼ó½3½v½w½°½÷½ø¾E¾‘¾’¾¾Ğ¾ê¾û¿&¿Q¿m¿—¿´¿¸¿¹À @À @CÀ @DÀ @À @•À @ÕÀ @ÛÀ A'À AvÀ AÇÀ A÷À AıÀ B+À BWÀ BÀ B£À BËÀ CÀ CÀ C^À C¨À CôÀ DDÀ D~À D„À DĞÀ EÀ EÀ EUÀ E À EÌÀ EÍÀ EıÀ FÀ FÀ FmÀ F„À F¹À FºÀ FÆÀ FòÀ GÀ GJÀ GPÀ G„À G´À GºÀ GàÀ HÀ HÀ HAÀ HrÀ HxÀ H§À HÜÀ IÀ IÀ IGÀ IsÀ I¤À IªÀ IÖÀ JÀ JÀ J8À JiÀ JoÀ J À JÑÀ J×À JüÀ K(À KXÀ KŠÀ K”À KœÀ K¢À KÌÀ KùÀ KÿÀ L'À LYÀ L_À LÀ LÂÀ LÈÀ LöÀ M0À M6À McÀ MšÀ M À MÈÀ MõÀ MûÀ N/À N\À NbÀ NÀ N‘À N’À NÀ N¼À NßÀ OÀ OÀ OÀ OVÀ OvÀ O›À OºÀ OêÀ OóÀ PÀ PÀ PÀ PÀ PlÀ P«À P±À PúÀ QIÀ Q•À QáÀ R,À RuÀ R¨À RÒÀ SÀ S?À SsÀ S’À SŸÀ SŞÀ SÿÀ T/À T5À T9À T:À T†À T¹À T¿À TñÀ UÀ U:À UbÀ UoÀ U©À UªÀ UÑÀ UòÀ UùÀ V2À V3À VTÀ VyÀ V´À VçÀ W3À WmÀ WnÀ W—À W©À WÒÀ WşÀ XÀ X À X(À X.À X/À XdÀ XeÀ XÀ XÇÀ XäÀ XëÀ XïÀ XğÀ Y<À Y‹À Y‘À YÃÀ YÉÀ ZÀ Z!À ZoÀ Z¼À [À [%À [+À [uÀ [¼À \	À \(À \IÀ \lÀ \À \œÀ \¢À \ãÀ ]À ](À ]GÀ ]zÀ ]ƒÀ ]¢À ]¨À ]¬À ]­À ]ûÀ ^GÀ ^–À ^æÀ ^úÀ _À _9À _UÀ _YÀ _ZÀ _¦À _öÀ ` À `OÀ `ƒÀ ` À `¦À `ÅÀ `âÀ aÀ a À a!À a-À aOÀ axÀ aÀ a³À a´À aÜÀ bÀ bEÀ b‚À bŠÀ bÀ b±À b²À bêÀ cÀ cTÀ c\À cbÀ cÀ c€À cÃÀ cğÀ d-À d5À d;À dcÀ ddÀ d¢À dÏÀ eÀ eÀ eÀ e=À e>À eyÀ e¹À e¿À eêÀ eëÀ fÀ f%À f)À f*À fxÀ fÈÀ fìÀ fòÀ g$À g*À g|À g±À gÔÀ g÷À gûÀ güÀ hHÀ hjÀ hpÀ h¢À h¨À hôÀ i8À irÀ i”À i¯À iÌÀ iÕÀ iÛÀ iÜÀ işÀ jÀ j7À j@À jFÀ jGÀ j\À jwÀ j À j©À j¯À j°À jãÀ k)À kFÀ kcÀ kgÀ khÀ k±À käÀ l*À lIÀ l‡À l´À lÑÀ lóÀ l÷À løÀ mAÀ mlÀ mªÀ mÉÀ mÿÀ n$À nAÀ ncÀ ngÀ nhÀ n¯À nµÀ nçÀ oÀ o5À oWÀ o]À o^À o’À o­À oÌÀ oŞÀ oóÀ pÀ pKÀ pzÀ p£À pªÀ p®À p¯À pıÀ qHÀ qXÀ q“À q¶À qÎÀ rÀ rÀ r-À rJÀ rPÀ r‹À rĞÀ ríÀ s
+À sÀ sÀ s`À s®À sõÀ t<À tbÀ tcÀ t”À t»À uÀ u?À uhÀ u“À uÅÀ uÍÀ uÓÀ uÔÀ vÀ vÀ v,À vUÀ v€À v À vÇÀ vúÀ w.À wYÀ w…À w–À wÙÀ wãÀ wäÀ xÀ xMÀ x”À xÀ xŸÀ xåÀ yÀ yFÀ y|À yµÀ y¿À yÀÀ yŞÀ z	À zAÀ zaÀ z£À zàÀ {À {À {À {À {iÀ {oÀ {¡À {ÛÀ {ıÀ |À |%À |&À |HÀ |kÀ |qÀ |rÀ |¢À |¾À |áÀ }À }@À }gÀ }À }œÀ }ÛÀ }áÀ }âÀ ~À ~/À ~SÀ ~ƒÀ ~°À ~ÛÀ ~ãÀ  À À À +À JÀ ^À eÀ iÀ jÀ µÀ ğÀ €À €4À €EÀ €nÀ €™À €ÅÀ €ğÀ À #À 'À (À vÀ ÆÀ üÀ ‚À ‚4À ‚:À ‚ŒÀ ‚’À ‚İÀ ƒ-À ƒ{À ƒÄÀ „À „ À „lÀ „À „°À „¶À „·À „ÙÀ „üÀ …À …À …À …3À …\À …eÀ …kÀ …lÀ …œÀ …¸À …ÛÀ †À †aÀ †€À †ŸÀ †ÎÀ †şÀ ‡%À ‡MÀ ‡ZÀ ‡™À ‡ŸÀ ‡£À ‡¤À ‡òÀ ˆAÀ ˆwÀ ˆ}À ˆÈÀ ‰À ‰fÀ ‰¯À ‰úÀ ŠÀ ŠXÀ Š†À ŠœÀ Š­À ŠÖÀ ‹À ‹/À ‹ZÀ ‹‡À ‹À ‹‘À ‹’À ‹áÀ Œ)À Œ_À ŒeÀ Œ—À ŒÀ ŒïÀ ŒõÀ FÀ •À ÖÀ ÜÀ -À À ÏÀ À RÀ ŠÀ µÀ ×À òÀ À À À À AÀ \À zÀ ƒÀ ‰À ŠÀ «À ±À ëÀ ‘À ‘)À ‘RÀ ‘\À ‘À ‘‰À ‘À ‘À ‘¥À ‘ÀÀ ‘éÀ ‘òÀ ‘øÀ ‘ùÀ ’À ’LÀ ’ŒÀ ’©À ’ÆÀ ’ÊÀ ’ËÀ “À “=À “{À “À “¸À “ÕÀ “ŞÀ “äÀ “åÀ ”À ”"À ”@À ”IÀ ”OÀ ”PÀ ”eÀ ”€À ”©À ”²À ”¸À ”¹À ”ñÀ •<À •YÀ •vÀ •zÀ •{À •ÁÀ •ÇÀ •ùÀ •ÿÀ –QÀ –WÀ –¢À –îÀ —À —8À —ZÀ —|À —‚À —ƒÀ —·À —÷À ˜(À ˜IÀ ˜hÀ ˜À ˜”À ˜±À ˜ĞÀ ™	À ™8À ™aÀ ™sÀ ™’À ™™À ™À ™À ™ªÀ ™ÏÀ ™èÀ šÀ šÀ š7À šyÀ š…À šÂÀ šîÀ ›À ›UÀ ›•À ›ÃÀ ›ËÀ ›ÙÀ ›ßÀ ›àÀ œÀ œ'À œVÀ œÀ œ¸À œÄÀ À >À lÀ –À  À ËÀ óÀ *À XÀ ’À œÀ ÊÀ ÒÀ àÀ æÀ çÀ ŸÀ Ÿ5À ŸkÀ ŸwÀ Ÿ´À ŸúÀ   À  *À  RÀ  ˜À  ÒÀ  ÜÀ ¡
+À ¡À ¡ À ¡&À ¡'À ¡HÀ ¡tÀ ¡§À ¡ãÀ ¢À ¢ À ¢)À ¢SÀ ¢wÀ ¢À ¢À ¢“À ¢”À ¢µÀ ¢àÀ £À £DÀ £†À £©À £±À £¿À £ÅÀ £ÆÀ £íÀ ¤À ¤YÀ ¤šÀ ¤ĞÀ ¤úÀ ¥À ¥&À ¥4À ¥:À ¥;À ¥\À ¥‹À ¥ÀÀ ¥îÀ ¥üÀ ¦À ¦À ¦)À ¦]À ¦ŒÀ ¦»À ¦ßÀ ¦óÀ §'À §/À §=À §CÀ §DÀ §mÀ §™À §İÀ ¨À ¨À ¨AÀ ¨IÀ ¨WÀ ¨]À ¨^À ¨~À ¨£À ¨ÏÀ ¨ÿÀ ©À ©\À ©“À ©¿À ©úÀ ª,À ªBÀ ªrÀ ª~À ªÀ ªšÀ ª¢À ª¨À ª©À ªÈÀ ªğÀ «!À «-À «eÀ «À «ÆÀ ¬À ¬TÀ ¬eÀ ¬œÀ ¬ÙÀ ¬ãÀ ­À ­BÀ ­pÀ ­‚À ­®À ­¶À ­ÄÀ ­ÊÀ ­ÎÀ ­ÏÀ ®À ®$À ®VÀ ®\À ®¥À ®òÀ ¯À ¯6À ¯YÀ ¯{À ¯‰À ¯À ¯ĞÀ ¯üÀ °À °AÀ °`À °“À °œÀ °»À °ÁÀ °ÅÀ °ÆÀ ±À ±"À ±;À ±nÀ ±{À ±­À ±¿À ±ÕÀ ±õÀ ±üÀ ²,À ²IÀ ²nÀ ²rÀ ²sÀ ²²À ²ëÀ ³À ³À ³;À ³jÀ ³ˆÀ ³¨À ³®À ³²À ³³À ³×À ´À ´3À ´UÀ ´›À ´¼À ´ŞÀ µÀ µÀ µ:À µcÀ µtÀ µ™À µÂÀ ¶À ¶RÀ ¶sÀ ¶„À ¶ŒÀ ¶’À ¶³À ¶´À ¶ùÀ ·2À ·3À ·gÀ ·¦À ·ÓÀ ·ıÀ ¸À ¸AÀ ¸LÀ ¸TÀ ¸ZÀ ¸^À ¸_À ¸§À ¸óÀ ¹=À ¹‡À ¹µÀ ¹ĞÀ ¹ÔÀ ¹ÕÀ º$À º8À º>À ºÀ º»À ºöÀ ºüÀ »LÀ »›À »ÔÀ ¼À ¼[À ¼À ¼À ¼ÔÀ ¼ğÀ ½$À ½%À ½KÀ ½ŒÀ ½½À ½¾À ¾À ¾-À ¾FÀ ¾~À ¾¸À ¾ÀÀ ¾ÆÀ ¾ÇÀ ¿À ¿*À ¿QÀ ¿lÀ ¿°À ¿¸À ¿¾À ¿¿À ÀÀ ÀPÀ ÀxÀ À„À À°À À±À ÀßÀ Á!À Á+À Á,À Á[À ÁÀ Á¨À Á©À ÁÌÀ ÁîÀ Â)À Â4À Â5À Â\À ÂÀ Â«À ÂôÀ Ã@À ÃSÀ Ã{À ÃŸÀ Ã´À ÃµÀ ÄÀ ÄÀ Ä)À ÄcÀ ÄÀ Ä·À Ä¸À ÄÜÀ ÅÀ Å9À Å:À ÅyÀ Å­À ÅßÀ ÅøÀ ÆÀ Æ*À Æ+À ÆcÀ ÆÀ Æ£À Æ°À ÆÛÀ ÆÜÀ ÇÀ ÇCÀ ÇOÀ ÇPÀ ÇŸÀ ÇŞÀ ÈÀ ÈÀ ÈSÀ ÈTÀ ÈvÀ È’À ÈŞÀ ÈóÀ É!À É<À ÉeÀ É‡À É´À ÉÇÀ ÉŞÀ ÉïÀ ÉıÀ Ê	À ÊÀ ÊÀ Ê=À ÊxÀ ÊÀ ÊÖÀ ÊøÀ ËÀ Ë?À ËIÀ ËJÀ ËyÀ Ë³À ËÊÀ ËòÀ ÌÀ ÌYÀ Ì›À Ì£À Ì«À Ì¯À Ì°À ÌÜÀ ÌöÀ ÍÀ ÍQÀ ÍzÀ Í~À ÍÀ ÍÄÀ ÎÀ Î5À Î9À Î:À Î„À Î˜À ÎÕÀ ÎòÀ ÎşÀ Ï1À ÏKÀ Ï`À ÏfÀ ÏgÀ Ï‹À ÏÔÀ ÏşÀ ĞÀ Ğ?À ĞxÀ ĞÀ Ğ‚À Ğ«À ĞáÀ ÑÀ ÑOÀ ÑŸÀ Ñ¶À ÑâÀ Ò
+À Ò À ÒRÀ ÒSÀ Ò À ÒÎÀ ÒøÀ Ó.À ÓHÀ ÓjÀ ÓuÀ ÓÀ ÓÇÀ ÔÀ ÔÀ ÔÀ ÔÀ ÔDÀ ÔeÀ ÔšÀ Ô¸À ÔÁÀ ÔÂÀ ÔéÀ ÕÀ Õ"À Õ#À Õ8À Õ@À ÕDÀ ÕEÀ Õ‹À Õ¿À ÕÀÀ ÖÀ Ö À ÖTÀ ÖUÀ ÖÀ ÖÆÀ ÖçÀ ×À ×@À ×IÀ ×À ×³À ×ÔÀ ×èÀ ×ÿÀ Ø À Ø[À ØŒÀ Ø·À ØÑÀ ØÚÀ ØâÀ ØæÀ ØçÀ ÙÀ Ù1À ÙZÀ ÙaÀ Ù~À ÙÀ Ù´À ÙÉÀ ÙèÀ Ú!À ÚPÀ ÚyÀ ÚÀ Ú–À ÚšÀ Ú›À ÚÚÀ ÚàÀ Û/À Û>À Û\À ÛmÀ ÛnÀ Û¡À ÛÅÀ ÛğÀ ÜÀ ÜMÀ ÜuÀ Ü«À ÜõÀ ÜüÀ ÜıÀ İÀ İ,À İ>À İWÀ İcÀ İxÀ İ¦À İ¿À İ×À İïÀ Ş	À Ş:À ŞgÀ Ş‚À Ş£À ŞÀÀ ŞæÀ ŞíÀ ß6À ß:À ß;À ßnÀ ß‹À ß·À ß¾À ßáÀ à À àÀ à,À àGÀ àdÀ àƒÀ à¼À àëÀ áÀ á1À áRÀ áYÀ á]À á^À á¬À áôÀ âÀ â^À âbÀ âcÀ â©À âïÀ ã9À ã?À ã‡À ãÓÀ ä!À änÀ äºÀ äèÀ äîÀ å:À åJÀ ågÀ å‰À å—À åÀ åÀÀ åÁÀ åöÀ æ:À æmÀ æÀ æÃÀ æëÀ æóÀ æùÀ æıÀ æşÀ çÀ ç?À çMÀ çSÀ çwÀ çxÀ çªÀ çÏÀ çÕÀ çÙÀ çÚÀ çïÀ èÀ è'À èEÀ èIÀ èJÀ èjÀ è‹À è¬À èíÀ éÀ éIÀ éMÀ éNÀ épÀ é‘À é²À éÓÀ êÀ ê;À êiÀ êjÀ ê¦À êÙÀ êÚÀ ë
+À ëÀ ëÀ ë/À ëPÀ ëqÀ ë’À ëĞÀ ëşÀ ìÀ ìÀ ìNÀ ì{À ì©À ì½À ìÓÀ ìêÀ ìÿÀ í"À íCÀ íJÀ í‡À íÃÀ íóÀ îÀ îCÀ îzÀ î›À î´À îËÀ îèÀ ïÀ ï#À ï^À ïÀ ïºÀ ïÖÀ ïîÀ ï÷À ğ?À ğLÀ ğ~À ğ’À ğªÀ ğ³À ğ÷À ğıÀ ñÀ ñÀ ñCÀ ñsÀ ñµÀ ñéÀ ò!À òeÀ òˆÀ ò«À ò³À ò¹À òÌÀ òĞÀ òÑÀ óÀ óLÀ ónÀ órÀ ósÀ óÄÀ ôÀ ôRÀ ôÀ ô°À ôŞÀ õÀ õ@À õkÀ õ‰À õÀ õÀ õ·À õİÀ öÀ ö(À ö=À örÀ ö À ö§À ö«À ö¬À öÒÀ ÷À ÷À ÷À ÷OÀ ÷wÀ ÷§À ÷¼À ÷ÄÀ ÷ÊÀ ÷ÜÀ ÷àÀ ÷áÀ øÀ ø/À øNÀ økÀ ølÀ ø§À øÅÀ øÍÀ øÓÀ ø×À øØÀ ù À ùWÀ ù†À ù±À ùéÀ úÀ ú1À úHÀ ú]À ú|À úµÀ úäÀ ûÀ ûÀ û8À ûWÀ ûlÀ ûÀ ûÁÀ ûäÀ ûïÀ ûøÀ ûÿÀ ü!À üeÀ üiÀ üjÀ üÀ ü¶À üÔÀ ı À ı-À ı<À ıiÀ ıqÀ ıwÀ ı{À ı|À ı¨À ıÍÀ ıŞÀ ıäÀ şÀ ş4À ş5À şYÀ şÀ şÀ şØÀ şûÀ ÿÀ ÿ>À ÿeÀ ÿmÀ ÿ—À ÿÀ ÿÀ ÿÚÀ ÿûÀ À À À WÀ oÀ —À ´À ÛÀ À%À+À,ÀqÀrÀŸÀ ÀªÀÜÀşÀ*ÀKÀ{À¯À¹ÀÈÀìÀÀ&À8ÀzÀÂÀÈÀÉÀúÀ7ÀvÀ~À„À…À£ÀºÀÒÀúÀÀ5À>ÀEÀIÀJÀŒÀ¶ÀÂÀÀ)ÀMÀbÀjÀkÀÀ¤À¬À­ÀİÀŞÀ$ÀBÀxÀyÀ›ÀµÀÓÀøÀÀBÀOÀZÀcÀ­À®ÀÚÀ	
+À	%À	lÀ	¶À	ÇÀ	íÀ
+À
+-À
+AÀ
+aÀ
+ƒÀ
+¥À
+®À
+¯À
+İÀÀÀ1ÀNÀmÀÀ½ÀßÀÀÀ%À)À*ÀqÀ¢ÀÑÀäÀñÀÀÀ)ÀRÀÀÆÀÛÀÀUÀ†À ÀÏÀ À$ÀQÀRÀrÀ”ÀªÀ²À³ÀÕÀøÀÀ2À:À;ÀaÀ‰À¯ÀÖÀÀ,À]À¡À¢ÀÇÀÙÀëÀşÀÀÀ	ÀXÀ‡ÀµÀ×ÀÀ$À(À)ÀnÀ˜À½ÀñÀÀYÀ†À­À½ÀÅÀËÀïÀóÀõÀöÀEÀ’ÀâÀùÀ ÀYÀwÀxÀÂÀÈÀÀÀXÀ ÀëÀÀÀaÀŒÀÀŞÀôÀúÀ,À2ÀÀÀŸÀâÀıÀşÀ:ÀXÀZÀ[À¬ÀüÀÀ/À:ÀEÀZÀrÀ„À”À À¯À¼À¾À¿ÀÀFÀfÀªÀ°ÀÿÀMÀÀÄÀÅÀÀcÀ±ÀÛÀáÀ,ÀyÀÈÀ À À #À $À pÀ –À —À ÊÀ ğÀ!(À!)À!BÀ!CÀ!À!µÀ!»À!ôÀ"À"À"XÀ"YÀ"‘À"¿À"ÀÀ"ÿÀ#=À#>À#À#ŸÀ#ÔÀ#úÀ$À$À$À$/À$3À$4À$vÀ$¡À$»À$ÒÀ%À%BÀ%HÀ%LÀ%MÀ%“À%¬À%ÛÀ&,À&LÀ&cÀ&’À&–À&—À&âÀ'À'5À'YÀ'…À'‹À'¨À'¿À'ÃÀ'ÄÀ(À(9À(JÀ(^À(¡À(§À(¼À(ÈÀ(ÌÀ(ÍÀ)À)bÀ)¯À)õÀ*.À*MÀ*{À*¤À*ªÀ*®À*¯À*şÀ+À+PÀ+cÀ+¡À+¢À+îÀ,À,"À,pÀ,€À,¬À,ØÀ,ëÀ-
+À-RÀ-’À-©À-±À-²À-ÏÀ-ĞÀ. À.(À.PÀ.ZÀ.bÀ.cÀ.ˆÀ.°À.İÀ.çÀ.ïÀ.ğÀ/0À/PÀ/€À/¸À/ÀÀ/ÁÀ/õÀ0"À0nÀ0¥À0äÀ1À16À1YÀ1cÀ1kÀ1lÀ1‘À1ÍÀ2À2HÀ2zÀ2™À2¯À2»À2ÅÀ2ÍÀ2ÎÀ3À3#À3NÀ3oÀ3À3—À3˜À3ÅÀ4À4À4À4À4PÀ4vÀ4wÀ4™À4²À4¸À4¼À4½À5
+À5!À5NÀ5dÀ5À5‡À5ÓÀ5×À5ÙÀ5ÚÀ5ùÀ6$À6%À6[À6À6„À6…À6©À6ªÀ6ÌÀ6ÍÀ7À7À7,À7kÀ7®À7çÀ7ëÀ7ìÀ8$À8HÀ8LÀ8NÀ8OÀ8}À8À8ÎÀ9À9`À9À9¡À9îÀ:3À:JÀ:–À:àÀ:úÀ;À;À;6À;7À;sÀ;¯À;×À;ØÀ<À<[À<‡À<ˆÀ<¥À<ÎÀ<ÏÀ<èÀ=1À=TÀ=oÀ=‡À=ˆÀ=ºÀ=ÜÀ=ùÀ>À>+À>,À>CÀ>ŠÀ>­À>ÊÀ>âÀ>äÀ>åÀ?2À?6À?rÀ?‘À?ãÀ@4À@_À@`À@¨À@ÕÀ@×À@ØÀ@îÀAÀA!ÀADÀAJÀAsÀAÀAÜÀAùÀBFÀB•ÀB³ÀBèÀC(ÀC;ÀCAÀCBÀCwÀC¨ÀCÅÀCàÀCÿÀD%ÀDGÀDkÀDÀD¶ÀDÁÀDÊÀDĞÀDÑÀDõÀEÀE'ÀECÀE_ÀE}ÀEÊÀEòÀEùÀEıÀEşÀFDÀF|ÀF­ÀFÈÀFêÀGÀG2ÀGmÀGÀG«ÀG¶ÀG¿ÀGÅÀGÆÀGñÀHÀH)ÀHWÀHuÀHŸÀHÇÀHÎÀHÒÀHÓÀI#ÀIIÀI‡ÀIÍÀIÑÀIÓÀIÔÀJÀJÀJeÀJkÀJŠÀJ£ÀJ¤ÀJÔÀK ÀKÀKFÀKiÀKjÀK»ÀL	ÀLWÀLŠÀL¦ÀL§ÀL»ÀL×ÀLùÀMÀM4ÀM:ÀM<ÀM=ÀMlÀMÀM¡ÀMÕÀNÀNÀN*ÀNrÀN¶ÀNèÀNéÀO#ÀOKÀOgÀOkÀOlÀO¦ÀOÎÀOöÀOüÀP ÀPÀPÀP,ÀPMÀP’ÀP½ÀP¾ÀPäÀQÀQÀQÀQSÀQcÀQ‡ÀQ±ÀQ²ÀQÑÀQÒÀR	ÀR
+ÀR.ÀR/ÀRPÀRQÀRfÀRgÀR“ÀR”ÀRÅÀRÆÀSÀS^ÀS„ÀS—ÀS¹ÀSàÀSáÀTÀT5ÀTRÀT‰ÀTÒÀTíÀT÷ÀTÿÀU ÀU0ÀUiÀU‰ÀUÏÀUŞÀVÀVÀVÀVÀVLÀVxÀV¡ÀVÍÀVôÀVõÀW;ÀWˆÀWÃÀWÓÀWÛÀWáÀWâÀXÀX+ÀXfÀXvÀX~ÀX£ÀXÏÀXÕÀXÖÀXùÀYÀY'ÀYAÀYEÀYFÀYvÀY€ÀY½ÀYíÀZ
+ÀZ+ÀZaÀZ~ÀZŠÀZ°ÀZÚÀZäÀZìÀZÿÀ[À[À[À[:À[RÀ[lÀ[‹À[ŒÀ[ÙÀ\$À\@À\AÀ\†À\‡À\“À\ÅÀ\ÇÀ\ÈÀ\ÜÀ\ñÀ]À]À]5À]6À]BÀ]XÀ]À]…À]‡À]ˆÀ]µÀ]¶À^À^3À^]À^‡À^ˆÀ^§À^¼À_À_À_5À_dÀ_”À_•À_ÒÀ_ÓÀ`"À`rÀ`­À`³Àa ÀaJÀaœÀaÏÀaâÀbÀbJÀbkÀbÀbØÀbÿÀcÀcÀc?ÀcaÀcŒÀc¡Àc©ÀcªÀcÈÀc÷Àd4ÀdmÀdÀd–Àd´ÀdºÀd»ÀdÖÀdèÀdìÀdîÀdïÀe:Àe‰Àe“ÀeµÀeÛÀfÀfÀf%Àf:ÀfÀf‚Àf˜Àf¹Àf×ÀfØÀgÀgÀgBÀgCÀg’ÀgâÀhÀh#ÀhpÀhºÀiÀi?ÀiRÀi„ÀiŸÀi¿ÀiÅÀiÆÀiåÀjÀj2ÀjcÀj€Àj†Àj‡Àj³ÀjêÀkÀkWÀkmÀkuÀk°ÀkáÀl
+ÀlÀlÀlÀlNÀlxÀl‰ÀlÀlÀlÀlµÀlÊÀlŞÀmÀmYÀmZÀm{Àm“Àm­ÀmÌÀmÒÀmÔ    AnalysisDriverAnalysisDriverGenericAnalysisDriverPriorityAnalysisDriverSchedulerAnalysisDriverTestViewAnalysisResultDriverWatcherErrorEncodingExceptionResult
+OwnedFilesSchedulerWorker_DiscoverAvailableFilesTask_ExceptionState_FileChange_FileChangeKind!_FilesDefiningClassMemberNameTask_FilesReferencingNameTask_ResolveForCompletionRequest ôŠ
