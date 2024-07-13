@@ -1,0 +1,24 @@
+{
+    "settings": {
+        "enable_proxy": true,
+        "proxies": ["http://proxy1.com:8080", "http://proxy2.com:8080"],
+        "enable_ai": true
+    },
+    "payment": {
+        "payment_method": "paypal",
+        "paypal_client_id": "example_client_id",
+        "paypal_client_secret": "example_client_secret"
+    },
+    "scraping": {
+        "search_method": "name",
+        "website_url": "https://example.com",
+        "product_name": "Example Product",
+        "min_price": "20.00",
+        "max_price": "200.00",
+        "quantity": 2,
+        "start_date": "2024-07-13",
+        "start_time": "15:00",
+        "duration": 120,
+        "frequency": 60
+    }
+}

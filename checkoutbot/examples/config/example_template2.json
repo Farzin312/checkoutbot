@@ -1,0 +1,27 @@
+{
+    "settings": {
+        "enable_proxy": false,
+        "proxies": [],
+        "enable_ai": false
+    },
+    "payment": {
+        "payment_method": "credit-card",
+        "card_name": "Jane Doe",
+        "card_number": "5555555555554444",
+        "expiry_date": "11/25",
+        "cvv": "321",
+        "billing_address": "456 Another St, Another City, AN 65432"
+    },
+    "scraping": {
+        "search_method": "name",
+        "website_url": "https://anotherexample.com",
+        "product_name": "Another Product",
+        "min_price": "15.00",
+        "max_price": "150.00",
+        "quantity": 3,
+        "start_date": "2024-08-01",
+        "start_time": "12:00",
+        "duration": 90,
+        "frequency": 45
+    }
+}
