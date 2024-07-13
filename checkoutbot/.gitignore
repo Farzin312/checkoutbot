@@ -1,7 +1,4 @@
-# Ignore macOS system files
 .DS_Store
-
-# Ignore user-specific directories and files
 /.android/
 /.bashrc
 /.bootdev.yaml
