@@ -1,4 +1,4 @@
-# CheckoutBotFramework
+# CheckoutBot Framework
 
 ## Introduction
 
