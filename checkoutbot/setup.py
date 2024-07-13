@@ -8,7 +8,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Farzin Shifat",
     author_email="farzinshifat@gmail.com",
-    url="https://github.com/yourusername/checkout_bot",
+    url="https://github.com/Farzin312/checkoutbot",
     packages=find_packages(),
     install_requires=[
         "beautifulsoup4==4.12.3",
