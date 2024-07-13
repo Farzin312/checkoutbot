@@ -1,107 +1,48 @@
-# macOS Finder
 .DS_Store
-
-# Android
-.android/
-
-# Bash configuration
-.bashrc
-
-# Bootdev
-.bootdev.yaml
-
-# Cache
-.cache/
-
-# Docker
-.docker/
-
-# Expo
-.expo/
-
-# Flutter
-.flutter
-
-# Git configuration
-.gitconfig
-
-# IPython
-.ipynb_checkpoints/
-.ipython/
-
-# Jupyter
-.jupyter/
-
-# Keras
-.keras/
-
-# Miscellaneous
-lesshst
-
-# Local
-.local/
-
-# Matplotlib
-.matplotlib/
-
-# MySQL
-.mysql_history
-
-# Netrc
-.netrc
-
-# NPM
-.npm/
-
-# NVM
-.nvm/
-
-# Pub cache
-.pub-cache/
-
-# Pyenv
-.pyenv/
-
-# Python history
-.python_history
-
-# SSH
-.ssh/
-
-# SwiftPM
-.swiftpm/
-
-# TCSH
-.tcshrc
-
-# Thinkorswim
-.thinkorswim/
-
-# Vim
-.vim/
-.viminfo
-
-# VSCode React Native
-.vscode-react-native/
-
-# VSCode
-.vscode/
-
-# Xonsh
-.xonshrc
-
-# Yarn
-.yarnrc
-
-# Zsh
-.zcompdump
-.zprofile
-.zprofile.macports-saved_2024-01-16_at_18:40:28
-.zsh_history
-.zsh_sessions/
-.zshrc
-
-# Ignore other user directories
+/.android/
+/.bashrc
+/.bootdev.yaml
+/.cache/
+/.docker/
+/.expo/
+/.flutter
+/.gitconfig
+/.ipynb_checkpoints/
+/.ipython/
+/.jupyter/
+/.keras/
+/lesshst
+/.local/
+/.matplotlib/
+/.mysql_history
+/.netrc
+/.npm/
+/.nvm/
+/.pub-cache/
+/.pyenv/
+/.python_history
+/.ssh/
+/.swiftpm/
+/tcshrc
+/.thinkorswim/
+/vim/
+/viminfo/
+/.vscode-react-native/
+/.vscode/
+/xonshrc/
+/.yarnrc/
+/.zcompdump/
+/.zprofile/
+/.zprofile.macports-saved_2024-01-16_at_18:40:28
+/.zsh_history
+/.zsh_sessions/
+/.zshrc
+/emotiondetector/
+/workspace/
+/portfolio/
+/my_env/
+/__pycache__/
+/.dartServer/
 /AiApp/
 /Applications/
 /Desktop/
@@ -120,7 +61,7 @@ lesshst
 /fitnessapp/
 /go/
 /projects/
-/root@45.55.131.82
+/root@45.55.131.82/
 /thinkorswim/
 /webpage/
 /main.py
@@ -128,9 +69,3 @@ lesshst
 /Untitled.ipynb
 /Untitled1.ipynb
 /Untitled2.ipynb
-/emotiondetector/
-/workspace/
-/portfolio/
-/my_env/
-/__pycache__/
-/.dartServer/
