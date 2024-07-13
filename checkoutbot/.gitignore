@@ -1,7 +1,7 @@
-my_env/
-__pycache__/
-.dartServer/
+# Ignore macOS system files
 .DS_Store
+
+# Ignore user-specific directories and files
 /.android/
 /.bashrc
 /.bootdev.yaml
@@ -68,6 +68,9 @@ __pycache__/
 /Untitled.ipynb
 /Untitled1.ipynb
 /Untitled2.ipynb
-emotiondetector/
-workspace/
-portfolio/
+/emotiondetector/
+/workspace/
+/portfolio/
+/my_env/
+/__pycache__/
+/.dartServer/
