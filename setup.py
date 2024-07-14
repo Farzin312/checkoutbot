@@ -10,6 +10,7 @@ setup(
     author_email="farzinshifat@gmail.com",
     url="https://github.com/Farzin312/checkoutbot",
     packages=find_packages(),
+    include_package_data=True,
     install_requires=[
         "beautifulsoup4==4.12.3",
         "requests==2.32.3",
